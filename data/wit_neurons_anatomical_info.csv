@@ -1,0 +1,181 @@
+cell_class,cell_type,Gender,cell_name,general_location,hemisphere
+ADF,Sensory neuron,GS,ADFL,head,left
+ADF,Sensory neuron,GS,ADFR,head,right
+ADL,Sensory neuron,GS,ADLL,head,left
+ADL,Sensory neuron,GS,ADLR,head,right
+AFD,Sensory neuron,GS,AFDL,head,left
+AFD,Sensory neuron,GS,AFDR,head,right
+ALM,Sensory neuron,GS,ALML,mid-body,left
+ALM,Sensory neuron,GS,ALMR,mid-body,right
+ALN,Sensory neuron,GS,ALNL,tail,left
+ALN,Sensory neuron,GS,ALNR,tail,right
+AQR,Sensory neuron,GS,AQR,head,right
+ASE,Sensory neuron,GS,ASEL,head,left
+ASE,Sensory neuron,GS,ASER,head,right
+ASG,Sensory neuron,GS,ASGL,head,left
+ASG,Sensory neuron,GS,ASGR,head,right
+ASH,Sensory neuron,GS,ASHL,head,left
+ASH,Sensory neuron,GS,ASHR,head,right
+ASI,Sensory neuron,GS,ASIL,head,left
+ASI,Sensory neuron,GS,ASIR,head,right
+ASJ,Sensory neuron,GS,ASJL,head,left
+ASJ,Sensory neuron,GS,ASJR,head,right
+ASK,Sensory neuron,GS,ASKL,head,left
+ASK,Sensory neuron,GS,ASKR,head,right
+AUA,Sensory neuron,GS,AUAL,head,left
+AUA,Sensory neuron,GS,AUAR,head,right
+AVM,Sensory neuron,GS,AVM,mid-body,right
+AWA,Sensory neuron,GS,AWAL,head,left
+AWA,Sensory neuron,GS,AWAR,head,right
+AWB,Sensory neuron,GS,AWBL,head,left
+AWB,Sensory neuron,GS,AWBR,head,right
+AWC,Sensory neuron,GS,AWCL,head,left
+AWC,Sensory neuron,GS,AWCR,head,right
+BAG,Sensory neuron,GS,BAGL,head,left
+BAG,Sensory neuron,GS,BAGR,head,right
+DVA,Modulatory neuron,GS,DVA,tail,right
+FLP,Sensory neuron,GS,FLPL,head,left
+FLP,Sensory neuron,GS,FLPR,head,right
+IL2,Sensory neuron,GS,IL2DL,head,left
+IL2,Sensory neuron,GS,IL2DR,head,right
+IL2,Sensory neuron,GS,IL2L,head,left
+IL2,Sensory neuron,GS,IL2R,head,right
+IL2,Sensory neuron,GS,IL2VL,head,left
+IL2,Sensory neuron,GS,IL2VR,head,right
+OLL,Sensory neuron,GS,OLLL,head,left
+OLL,Sensory neuron,GS,OLLR,head,right
+OLQ,Sensory neuron,GS,OLQDL,head,left
+OLQ,Sensory neuron,GS,OLQDR,head,right
+OLQ,Sensory neuron,GS,OLQVL,head,left
+OLQ,Sensory neuron,GS,OLQVR,head,right
+PLN,Sensory neuron,GS,PLNL,tail,left
+PLN,Sensory neuron,GS,PLNR,tail,right
+SAA,Sensory neuron,GS,SAADL,head,left
+SAA,Sensory neuron,GS,SAADR,head,right
+SAA,Sensory neuron,GS,SAAVL,head,left
+SAA,Sensory neuron,GS,SAAVR,head,right
+SDQ,Sensory neuron,GS,SDQL,mid-body,left
+SDQ,Sensory neuron,GS,SDQR,mid-body,right
+URB,Sensory neuron,GS,URBL,head,left
+URB,Sensory neuron,GS,URBR,head,right
+URX,Sensory neuron,GS,URXL,head,left
+URX,Sensory neuron,GS,URXR,head,right
+URY,Sensory neuron,GS,URYDL,head,left
+URY,Sensory neuron,GS,URYDR,head,right
+URY,Sensory neuron,GS,URYVL,head,left
+URY,Sensory neuron,GS,URYVR,head,right
+ADA,Interneuron,GS,ADAL,head,left
+ADA,Interneuron,GS,ADAR,head,right
+AIA,Interneuron,GS,AIAL,head,left
+AIA,Interneuron,GS,AIAR,head,right
+AIB,Interneuron,GS,AIBL,head,left
+AIB,Interneuron,GS,AIBR,head,right
+AIN,Interneuron,GS,AINL,head,left
+AIN,Interneuron,GS,AINR,head,right
+AIY,Interneuron,GS,AIYL,head,left
+AIY,Interneuron,GS,AIYR,head,right
+AIZ,Interneuron,GS,AIZL,head,left
+AIZ,Interneuron,GS,AIZR,head,right
+AVA,Interneuron,GS,AVAL,head,left
+AVA,Interneuron,GS,AVAR,head,right
+AVB,Interneuron,GS,AVBL,head,left
+AVB,Interneuron,GS,AVBR,head,right
+AVD,Interneuron,GS,AVDL,head,left
+AVD,Interneuron,GS,AVDR,head,right
+AVE,Interneuron,GS,AVEL,head,left
+AVE,Interneuron,GS,AVER,head,right
+AVJ,Modulatory neuron,GS,AVJL,head,right
+AVJ,Modulatory neuron,GS,AVJR,head,left
+BDU,Interneuron,GS,BDUL,mid-body,left
+BDU,Interneuron,GS,BDUR,mid-body,right
+PVC,Interneuron,GS,PVCL,tail,left
+PVC,Interneuron,GS,PVCR,tail,right
+PVP,Interneuron,GS,PVPL,tail,left
+PVP,Interneuron,GS,PVPR,tail,right
+PVR,Interneuron,GS,PVR,tail,right
+PVT,Interneuron,GS,PVT,tail,midline
+RIA,Interneuron,GS,RIAL,head,left
+RIA,Interneuron,GS,RIAR,head,right
+RIB,Interneuron,GS,RIBL,head,left
+RIB,Interneuron,GS,RIBR,head,right
+RIF,Interneuron,GS,RIFL,head,left
+RIF,Interneuron,GS,RIFR,head,right
+RIG,Interneuron,GS,RIGL,head,left
+RIG,Interneuron,GS,RIGR,head,right
+RIH,Interneuron,GS,RIH,head,midline
+RIM,Interneuron,GS,RIML,head,left
+RIM,Interneuron,GS,RIMR,head,right
+RIP,Interneuron,GS,RIPL,head,left
+RIP,Interneuron,GS,RIPR,head,right
+RIR,Interneuron,GS,RIR,head,midline
+IL1,Motor neuron,GS,IL1DL,head,left
+IL1,Motor neuron,GS,IL1DR,head,right
+IL1,Motor neuron,GS,IL1L,head,left
+IL1,Motor neuron,GS,IL1R,head,right
+IL1,Motor neuron,GS,IL1VL,head,left
+IL1,Motor neuron,GS,IL1VR,head,right
+RIV,Motor neuron,GS,RIVL,head,left
+RIV,Motor neuron,GS,RIVR,head,right
+RMD,Motor neuron,GS,RMDDL,head,left
+RMD,Motor neuron,GS,RMDDR,head,right
+RMD,Motor neuron,GS,RMDL,head,left
+RMD,Motor neuron,GS,RMDR,head,right
+RMD,Motor neuron,GS,RMDVL,head,left
+RMD,Motor neuron,GS,RMDVR,head,right
+RME,Motor neuron,GS,RMED,head,midline
+RME,Motor neuron,GS,RMEL,head,left
+RME,Motor neuron,GS,RMER,head,right
+RME,Motor neuron,GS,RMEV,head,midline
+RMF,Motor neuron,GS,RMFL,head,left
+RMF,Motor neuron,GS,RMFR,head,right
+RMH,Motor neuron,GS,RMHL,head,left
+RMH,Motor neuron,GS,RMHR,head,right
+SIA,Motor neuron,GS,SIADL,head,left
+SIA,Motor neuron,GS,SIADR,head,right
+SIA,Motor neuron,GS,SIAVL,head,left
+SIA,Motor neuron,GS,SIAVR,head,right
+SIB,Motor neuron,GS,SIBDL,head,left
+SIB,Motor neuron,GS,SIBDR,head,right
+SIB,Motor neuron,GS,SIBVL,head,left
+SIB,Motor neuron,GS,SIBVR,head,right
+SMB,Motor neuron,GS,SMBDL,head,left
+SMB,Motor neuron,GS,SMBDR,head,right
+SMB,Motor neuron,GS,SMBVL,head,left
+SMB,Motor neuron,GS,SMBVR,head,right
+SMD,Motor neuron,GS,SMDDL,head,left
+SMD,Motor neuron,GS,SMDDR,head,right
+SMD,Motor neuron,GS,SMDVL,head,left
+SMD,Motor neuron,GS,SMDVR,head,right
+URA,Motor neuron,GS,URADL,head,left
+URA,Motor neuron,GS,URADR,head,right
+URA,Motor neuron,GS,URAVL,head,left
+URA,Motor neuron,GS,URAVR,head,right
+ADE,Modulatory neuron,GS,ADEL,head,left
+ADE,Modulatory neuron,GS,ADER,head,right
+AIM,Modulatory neuron,GS,AIML,head,left
+AIM,Modulatory neuron,GS,AIMR,head,right
+ALA,Modulatory neuron,GS,ALA,head,midline
+AVF,Modulatory neuron,GS,AVFL,head,left
+AVF,Modulatory neuron,GS,AVFR,head,right
+AVH,Modulatory neuron,GS,AVHL,head,left
+AVH,Modulatory neuron,GS,AVHR,head,right
+AVK,Modulatory neuron,GS,AVKL,head,left
+AVK,Modulatory neuron,GS,AVKR,head,right
+AVL,Modulatory neuron,GS,AVL,head,midline
+CEP,Modulatory neuron,GS,CEPDL,head,left
+CEP,Modulatory neuron,GS,CEPDR,head,right
+CEP,Modulatory neuron,GS,CEPVL,head,left
+CEP,Modulatory neuron,GS,CEPVR,head,right
+DVC,Interneuron,GS,DVC,tail,midline
+HSN,Modulatory neuron,HS,HSNL,tail,left
+HSN,Modulatory neuron,HS,HSNR,tail,right
+PVN,Modulatory neuron,GS,PVNL,tail,left
+PVN,Modulatory neuron,GS,PVNR,tail,right
+PVQ,Modulatory neuron,GS,PVQL,tail,left
+PVQ,Modulatory neuron,GS,PVQR,tail,right
+RIC,Modulatory neuron,GS,RICL,head,left
+RIC,Modulatory neuron,GS,RICR,head,right
+RID,Modulatory neuron,GS,RID,head,midline
+RIS,Modulatory neuron,GS,RIS,head,midline
+RMG,Modulatory neuron,GS,RMGL,head,left
+RMG,Modulatory neuron,GS,RMGR,head,right

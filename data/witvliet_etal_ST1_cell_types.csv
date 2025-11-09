@@ -1,0 +1,86 @@
+﻿cell_class,cell_type,Gender
+ADA,Interneuron,GS
+ADE,Modulatory neuron,GS
+ADF,Sensory neuron,GS
+ADL,Sensory neuron,GS
+AFD,Sensory neuron,GS
+AIA,Interneuron,GS
+AIB,Interneuron,GS
+AIM,Modulatory neuron,GS
+AIN,Interneuron,GS
+AIY,Interneuron,GS
+AIZ,Interneuron,GS
+ALA,Modulatory neuron,GS
+ALM,Sensory neuron,GS
+ALN,Sensory neuron,GS
+AQR,Sensory neuron,GS
+ASE,Sensory neuron,GS
+ASG,Sensory neuron,GS
+ASH,Sensory neuron,GS
+ASI,Sensory neuron,GS
+ASJ,Sensory neuron,GS
+ASK,Sensory neuron,GS
+AUA,Sensory neuron,GS
+AVA,Interneuron,GS
+AVB,Interneuron,GS
+AVD,Interneuron,GS
+AVE,Interneuron,GS
+AVF,Modulatory neuron,GS
+AVH,Modulatory neuron,GS
+AVJ,Modulatory neuron,GS
+AVK,Modulatory neuron,GS
+AVL,Modulatory neuron,GS
+AVM,Sensory neuron,GS
+AWA,Sensory neuron,GS
+AWB,Sensory neuron,GS
+AWC,Sensory neuron,GS
+BAG,Sensory neuron,GS
+BDU,Interneuron,GS
+CEP,Modulatory neuron,GS
+DVA,Modulatory neuron,GS
+DVC,Interneuron,GS
+FLP,Sensory neuron,GS
+HSN,Modulatory neuron,HS
+IL1,Motor neuron,GS
+IL2,Sensory neuron,GS
+OLL,Sensory neuron,GS
+OLQ,Sensory neuron,GS
+PLN,Sensory neuron,GS
+PVC,Interneuron,GS
+PVD,Sensory neuron,GS
+PVM,Sensory neuron,GS
+PVN,Modulatory neuron,GS
+PVP,Interneuron,GS
+PVQ,Modulatory neuron,GS
+PVR,Interneuron,GS
+PVT,Interneuron,GS
+RIA,Interneuron,GS
+RIB,Interneuron,GS
+RIC,Modulatory neuron,GS
+RID,Modulatory neuron,GS
+RIF,Interneuron,GS
+RIG,Interneuron,GS
+RIH,Interneuron,GS
+RIM,Interneuron,GS
+RIP,Interneuron,GS
+RIR,Interneuron,GS
+RIS,Modulatory neuron,GS
+RIV,Motor neuron,GS
+RMD,Motor neuron,GS
+RME,Motor neuron,GS
+RMF,Motor neuron,GS
+RMG,Modulatory neuron,GS
+RMH,Motor neuron,GS
+SAA,Sensory neuron,GS
+SAB,Motor neuron,GS
+SDQ,Sensory neuron,GS
+SIA,Motor neuron,GS
+SIB,Motor neuron,GS
+SMB,Motor neuron,GS
+SMD,Motor neuron,GS
+URA,Motor neuron,GS
+URB,Sensory neuron,GS
+URX,Sensory neuron,GS
+URY,Sensory neuron,GS
+BWM,Muscle,GS
+CEPsh,Glia,GS

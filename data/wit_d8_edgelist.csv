@@ -1,0 +1,1934 @@
+Source,Target,Weight,source_ct,target_ct
+ADFL,ASHL,1,Sensory neuron,Sensory neuron
+ADFL,AWBL,1,Sensory neuron,Sensory neuron
+ADFL,BAGR,1,Sensory neuron,Sensory neuron
+ADFL,OLQVL,1,Sensory neuron,Sensory neuron
+ADFL,URXL,2,Sensory neuron,Sensory neuron
+ADFL,AIAL,2,Sensory neuron,Interneuron
+ADFL,AIBL,1,Sensory neuron,Interneuron
+ADFL,AIBR,1,Sensory neuron,Interneuron
+ADFL,AIYL,1,Sensory neuron,Interneuron
+ADFL,AIZL,18,Sensory neuron,Interneuron
+ADFL,RIAL,17,Sensory neuron,Interneuron
+ADFL,RIGL,3,Sensory neuron,Interneuron
+ADFL,RIR,2,Sensory neuron,Interneuron
+ADFL,SMBVL,5,Sensory neuron,Motor neuron
+ADFL,AVHR,1,Sensory neuron,Modulatory neuron
+ADFR,AUAR,3,Sensory neuron,Sensory neuron
+ADFR,AWBR,1,Sensory neuron,Sensory neuron
+ADFR,OLQVR,1,Sensory neuron,Sensory neuron
+ADFR,AIZR,13,Sensory neuron,Interneuron
+ADFR,RIAR,12,Sensory neuron,Interneuron
+ADFR,RIGR,4,Sensory neuron,Interneuron
+ADFR,RIH,1,Sensory neuron,Interneuron
+ADFR,RIR,5,Sensory neuron,Interneuron
+ADFR,SIBVR,1,Sensory neuron,Motor neuron
+ADFR,SMBDR,1,Sensory neuron,Motor neuron
+ADFR,SMBVR,3,Sensory neuron,Motor neuron
+ADLL,ASEL,1,Sensory neuron,Sensory neuron
+ADLL,ASGL,1,Sensory neuron,Sensory neuron
+ADLL,ASHL,9,Sensory neuron,Sensory neuron
+ADLL,ASKL,5,Sensory neuron,Sensory neuron
+ADLL,AWAL,1,Sensory neuron,Sensory neuron
+ADLL,AWBL,1,Sensory neuron,Sensory neuron
+ADLL,AWCL,2,Sensory neuron,Sensory neuron
+ADLL,AWCR,1,Sensory neuron,Sensory neuron
+ADLL,ADAL,2,Sensory neuron,Interneuron
+ADLL,AIAL,8,Sensory neuron,Interneuron
+ADLL,AIBL,18,Sensory neuron,Interneuron
+ADLL,AVAL,16,Sensory neuron,Interneuron
+ADLL,AVBL,1,Sensory neuron,Interneuron
+ADLL,AVDL,1,Sensory neuron,Interneuron
+ADLL,AVDR,15,Sensory neuron,Interneuron
+ADLL,AVEL,1,Sensory neuron,Interneuron
+ADLL,AVJL,1,Sensory neuron,Modulatory neuron
+ADLL,AVJR,3,Sensory neuron,Modulatory neuron
+ADLL,PVCL,1,Sensory neuron,Interneuron
+ADLL,SMBVL,9,Sensory neuron,Motor neuron
+ADLL,AVHR,1,Sensory neuron,Modulatory neuron
+ADLR,ASER,2,Sensory neuron,Sensory neuron
+ADLR,ASHR,3,Sensory neuron,Sensory neuron
+ADLR,AWAR,1,Sensory neuron,Sensory neuron
+ADLR,AWBR,1,Sensory neuron,Sensory neuron
+ADLR,AWCR,10,Sensory neuron,Sensory neuron
+ADLR,OLQVR,2,Sensory neuron,Sensory neuron
+ADLR,URYVR,1,Sensory neuron,Sensory neuron
+ADLR,AIAR,13,Sensory neuron,Interneuron
+ADLR,AIBR,12,Sensory neuron,Interneuron
+ADLR,AVAL,3,Sensory neuron,Interneuron
+ADLR,AVAR,11,Sensory neuron,Interneuron
+ADLR,AVDL,9,Sensory neuron,Interneuron
+ADLR,AVDR,1,Sensory neuron,Interneuron
+ADLR,AVJR,1,Sensory neuron,Modulatory neuron
+ADLR,PVCR,1,Sensory neuron,Interneuron
+ADLR,SMBVR,1,Sensory neuron,Motor neuron
+AFDL,ASER,1,Sensory neuron,Sensory neuron
+AFDL,AWBL,1,Sensory neuron,Sensory neuron
+AFDL,BAGR,1,Sensory neuron,Sensory neuron
+AFDL,AINR,1,Sensory neuron,Interneuron
+AFDL,AIYL,10,Sensory neuron,Interneuron
+AFDL,AIZL,1,Sensory neuron,Interneuron
+AFDR,BAGL,2,Sensory neuron,Sensory neuron
+AFDR,AIYR,10,Sensory neuron,Interneuron
+ALML,AVM,1,Sensory neuron,Sensory neuron
+ALML,AVDR,1,Sensory neuron,Interneuron
+ALML,BDUL,9,Sensory neuron,Interneuron
+ALML,PVCL,10,Sensory neuron,Interneuron
+ALML,RIFL,1,Sensory neuron,Interneuron
+ALML,CEPDL,4,Sensory neuron,Modulatory neuron
+ALML,CEPVL,4,Sensory neuron,Modulatory neuron
+ALML,PVNR,1,Sensory neuron,Modulatory neuron
+ALML,RID,1,Sensory neuron,Modulatory neuron
+ALMR,AVDL,2,Sensory neuron,Interneuron
+ALMR,AVDR,2,Sensory neuron,Interneuron
+ALMR,BDUR,6,Sensory neuron,Interneuron
+ALMR,PVCR,7,Sensory neuron,Interneuron
+ALMR,RIFR,1,Sensory neuron,Interneuron
+ALMR,ADER,2,Sensory neuron,Modulatory neuron
+ALMR,CEPDR,4,Sensory neuron,Modulatory neuron
+ALMR,CEPVR,5,Sensory neuron,Modulatory neuron
+ALMR,PVNR,1,Sensory neuron,Modulatory neuron
+ALNL,SAAVL,10,Sensory neuron,Sensory neuron
+ALNL,RIVR,1,Sensory neuron,Motor neuron
+ALNL,SMBDR,4,Sensory neuron,Motor neuron
+ALNL,SMDVL,1,Sensory neuron,Motor neuron
+ALNL,SMDVR,1,Sensory neuron,Motor neuron
+ALNL,ADEL,1,Sensory neuron,Modulatory neuron
+ALNR,SAAVR,9,Sensory neuron,Sensory neuron
+ALNR,AVAL,2,Sensory neuron,Interneuron
+ALNR,RIAR,1,Sensory neuron,Interneuron
+ALNR,SMBDL,4,Sensory neuron,Motor neuron
+ALNR,SMDDL,1,Sensory neuron,Motor neuron
+ALNR,RMGR,1,Sensory neuron,Modulatory neuron
+AQR,AUAR,1,Sensory neuron,Sensory neuron
+AQR,BAGL,3,Sensory neuron,Sensory neuron
+AQR,BAGR,8,Sensory neuron,Sensory neuron
+AQR,FLPL,1,Sensory neuron,Sensory neuron
+AQR,AIBL,1,Sensory neuron,Interneuron
+AQR,AVAL,7,Sensory neuron,Interneuron
+AQR,AVAR,5,Sensory neuron,Interneuron
+AQR,AVBL,3,Sensory neuron,Interneuron
+AQR,AVBR,2,Sensory neuron,Interneuron
+AQR,AVDL,1,Sensory neuron,Interneuron
+AQR,AVDR,2,Sensory neuron,Interneuron
+AQR,PVCL,5,Sensory neuron,Interneuron
+AQR,PVCR,5,Sensory neuron,Interneuron
+AQR,PVPL,2,Sensory neuron,Interneuron
+AQR,PVPR,1,Sensory neuron,Interneuron
+AQR,RIAL,9,Sensory neuron,Interneuron
+AQR,RIAR,8,Sensory neuron,Interneuron
+AQR,RIR,9,Sensory neuron,Interneuron
+AQR,IL1VL,1,Sensory neuron,Motor neuron
+ASEL,ADLL,2,Sensory neuron,Sensory neuron
+ASEL,AFDL,1,Sensory neuron,Sensory neuron
+ASEL,AFDR,2,Sensory neuron,Sensory neuron
+ASEL,ASGL,2,Sensory neuron,Sensory neuron
+ASEL,AWCL,5,Sensory neuron,Sensory neuron
+ASEL,AWCR,1,Sensory neuron,Sensory neuron
+ASEL,BAGL,1,Sensory neuron,Sensory neuron
+ASEL,BAGR,1,Sensory neuron,Sensory neuron
+ASEL,AIAL,1,Sensory neuron,Interneuron
+ASEL,AIBL,13,Sensory neuron,Interneuron
+ASEL,AIBR,3,Sensory neuron,Interneuron
+ASEL,AINL,1,Sensory neuron,Interneuron
+ASEL,AIYL,11,Sensory neuron,Interneuron
+ASEL,AIYR,6,Sensory neuron,Interneuron
+ASEL,RIAR,1,Sensory neuron,Interneuron
+ASER,AFDL,3,Sensory neuron,Sensory neuron
+ASER,AFDR,2,Sensory neuron,Sensory neuron
+ASER,ASIR,1,Sensory neuron,Sensory neuron
+ASER,AWAR,1,Sensory neuron,Sensory neuron
+ASER,AWCR,9,Sensory neuron,Sensory neuron
+ASER,AIAR,1,Sensory neuron,Interneuron
+ASER,AIBL,6,Sensory neuron,Interneuron
+ASER,AIBR,15,Sensory neuron,Interneuron
+ASER,AIYL,11,Sensory neuron,Interneuron
+ASER,AIYR,21,Sensory neuron,Interneuron
+ASER,AIZL,1,Sensory neuron,Interneuron
+ASGL,ASJL,1,Sensory neuron,Sensory neuron
+ASGL,AIAL,9,Sensory neuron,Interneuron
+ASGL,AIBL,1,Sensory neuron,Interneuron
+ASGL,AIZL,1,Sensory neuron,Interneuron
+ASGL,AIML,3,Sensory neuron,Modulatory neuron
+ASGL,CEPVL,1,Sensory neuron,Modulatory neuron
+ASGR,AIAR,10,Sensory neuron,Interneuron
+ASGR,AIBR,3,Sensory neuron,Interneuron
+ASHL,ADLL,3,Sensory neuron,Sensory neuron
+ASHL,AWAL,1,Sensory neuron,Sensory neuron
+ASHL,AWBL,2,Sensory neuron,Sensory neuron
+ASHL,URXL,2,Sensory neuron,Sensory neuron
+ASHL,ADAL,3,Sensory neuron,Interneuron
+ASHL,AIAL,11,Sensory neuron,Interneuron
+ASHL,AIAR,1,Sensory neuron,Interneuron
+ASHL,AIBL,7,Sensory neuron,Interneuron
+ASHL,AIZL,1,Sensory neuron,Interneuron
+ASHL,AVAL,16,Sensory neuron,Interneuron
+ASHL,AVBL,11,Sensory neuron,Interneuron
+ASHL,AVDL,1,Sensory neuron,Interneuron
+ASHL,AVDR,10,Sensory neuron,Interneuron
+ASHL,AVEL,2,Sensory neuron,Interneuron
+ASHL,AVJR,1,Sensory neuron,Modulatory neuron
+ASHL,RIAL,1,Sensory neuron,Interneuron
+ASHL,RIFL,1,Sensory neuron,Interneuron
+ASHL,SMBVL,1,Sensory neuron,Motor neuron
+ASHL,AVHR,1,Sensory neuron,Modulatory neuron
+ASHL,HSNL,1,Sensory neuron,Modulatory neuron
+ASHL,HSNR,1,Sensory neuron,Modulatory neuron
+ASHL,PVQL,2,Sensory neuron,Modulatory neuron
+ASHL,RMGL,3,Sensory neuron,Modulatory neuron
+ASHR,ADFR,1,Sensory neuron,Sensory neuron
+ASHR,ADLR,4,Sensory neuron,Sensory neuron
+ASHR,AWAR,1,Sensory neuron,Sensory neuron
+ASHR,AWBR,1,Sensory neuron,Sensory neuron
+ASHR,ADAR,2,Sensory neuron,Interneuron
+ASHR,AIAL,1,Sensory neuron,Interneuron
+ASHR,AIAR,12,Sensory neuron,Interneuron
+ASHR,AIBR,7,Sensory neuron,Interneuron
+ASHR,AIYR,1,Sensory neuron,Interneuron
+ASHR,AVAL,2,Sensory neuron,Interneuron
+ASHR,AVAR,18,Sensory neuron,Interneuron
+ASHR,AVBR,11,Sensory neuron,Interneuron
+ASHR,AVDL,10,Sensory neuron,Interneuron
+ASHR,AVDR,3,Sensory neuron,Interneuron
+ASHR,AVER,2,Sensory neuron,Interneuron
+ASHR,AVJL,1,Sensory neuron,Modulatory neuron
+ASHR,PVCL,2,Sensory neuron,Interneuron
+ASHR,RIAR,1,Sensory neuron,Interneuron
+ASHR,RIMR,1,Sensory neuron,Interneuron
+ASHR,AIMR,1,Sensory neuron,Modulatory neuron
+ASHR,AVHL,2,Sensory neuron,Modulatory neuron
+ASHR,HSNL,1,Sensory neuron,Modulatory neuron
+ASHR,HSNR,2,Sensory neuron,Modulatory neuron
+ASHR,RMGR,1,Sensory neuron,Modulatory neuron
+ASIL,ASER,1,Sensory neuron,Sensory neuron
+ASIL,ASGL,5,Sensory neuron,Sensory neuron
+ASIL,ASHL,1,Sensory neuron,Sensory neuron
+ASIL,ASKL,1,Sensory neuron,Sensory neuron
+ASIL,AWCL,10,Sensory neuron,Sensory neuron
+ASIL,AWCR,8,Sensory neuron,Sensory neuron
+ASIL,AIAL,3,Sensory neuron,Interneuron
+ASIL,AIAR,2,Sensory neuron,Interneuron
+ASIL,AIBL,4,Sensory neuron,Interneuron
+ASIL,AIBR,2,Sensory neuron,Interneuron
+ASIL,CEPVL,1,Sensory neuron,Modulatory neuron
+ASIR,AFDR,1,Sensory neuron,Sensory neuron
+ASIR,ASGR,3,Sensory neuron,Sensory neuron
+ASIR,AWAR,1,Sensory neuron,Sensory neuron
+ASIR,AWBR,1,Sensory neuron,Sensory neuron
+ASIR,AWCL,4,Sensory neuron,Sensory neuron
+ASIR,AWCR,6,Sensory neuron,Sensory neuron
+ASIR,AIAR,6,Sensory neuron,Interneuron
+ASIR,AIBR,7,Sensory neuron,Interneuron
+ASIR,AIYR,2,Sensory neuron,Interneuron
+ASJL,ASKL,4,Sensory neuron,Sensory neuron
+ASJL,AIAL,1,Sensory neuron,Interneuron
+ASJL,ALA,1,Sensory neuron,Modulatory neuron
+ASJL,PVQL,14,Sensory neuron,Modulatory neuron
+ASJR,ASKR,4,Sensory neuron,Sensory neuron
+ASJR,AINR,1,Sensory neuron,Interneuron
+ASJR,ALA,1,Sensory neuron,Modulatory neuron
+ASJR,PVQR,13,Sensory neuron,Modulatory neuron
+ASKL,ADLL,2,Sensory neuron,Sensory neuron
+ASKL,ASGL,1,Sensory neuron,Sensory neuron
+ASKL,ASIL,1,Sensory neuron,Sensory neuron
+ASKL,AWBL,1,Sensory neuron,Sensory neuron
+ASKL,ADAL,1,Sensory neuron,Interneuron
+ASKL,AIAL,25,Sensory neuron,Interneuron
+ASKL,AIBL,6,Sensory neuron,Interneuron
+ASKL,AINL,1,Sensory neuron,Interneuron
+ASKL,SIBDR,1,Sensory neuron,Motor neuron
+ASKL,SMDDR,1,Sensory neuron,Motor neuron
+ASKL,AIML,2,Sensory neuron,Modulatory neuron
+ASKL,PVQL,1,Sensory neuron,Modulatory neuron
+ASKR,ADLR,2,Sensory neuron,Sensory neuron
+ASKR,ASER,2,Sensory neuron,Sensory neuron
+ASKR,ASKL,1,Sensory neuron,Sensory neuron
+ASKR,AIAL,1,Sensory neuron,Interneuron
+ASKR,AIAR,30,Sensory neuron,Interneuron
+ASKR,AIBR,6,Sensory neuron,Interneuron
+ASKR,AIMR,12,Sensory neuron,Modulatory neuron
+ASKR,AVFL,1,Sensory neuron,Modulatory neuron
+ASKR,AVFR,1,Sensory neuron,Modulatory neuron
+ASKR,HSNL,2,Sensory neuron,Modulatory neuron
+ASKR,HSNR,1,Sensory neuron,Modulatory neuron
+ASKR,PVQR,1,Sensory neuron,Modulatory neuron
+AUAL,ADFL,2,Sensory neuron,Sensory neuron
+AUAL,DVA,3,Sensory neuron,Modulatory neuron
+AUAL,URXL,4,Sensory neuron,Sensory neuron
+AUAL,AINR,2,Sensory neuron,Interneuron
+AUAL,AVAL,8,Sensory neuron,Interneuron
+AUAL,AVEL,10,Sensory neuron,Interneuron
+AUAL,RIAL,20,Sensory neuron,Interneuron
+AUAL,RIBL,13,Sensory neuron,Interneuron
+AUAL,RIR,1,Sensory neuron,Interneuron
+AUAR,URXR,1,Sensory neuron,Sensory neuron
+AUAR,AINL,1,Sensory neuron,Interneuron
+AUAR,AVAR,7,Sensory neuron,Interneuron
+AUAR,AVER,10,Sensory neuron,Interneuron
+AUAR,RIAR,18,Sensory neuron,Interneuron
+AUAR,RIBR,20,Sensory neuron,Interneuron
+AVM,ALML,2,Sensory neuron,Sensory neuron
+AVM,FLPL,1,Sensory neuron,Sensory neuron
+AVM,AVBL,6,Sensory neuron,Interneuron
+AVM,AVBR,7,Sensory neuron,Interneuron
+AVM,AVDR,1,Sensory neuron,Interneuron
+AVM,AVJL,2,Sensory neuron,Modulatory neuron
+AVM,AVJR,4,Sensory neuron,Modulatory neuron
+AVM,BDUL,3,Sensory neuron,Interneuron
+AVM,BDUR,2,Sensory neuron,Interneuron
+AVM,PVCL,11,Sensory neuron,Interneuron
+AVM,PVCR,5,Sensory neuron,Interneuron
+AVM,PVNR,1,Sensory neuron,Modulatory neuron
+AWAL,ADFL,2,Sensory neuron,Sensory neuron
+AWAL,ADLL,1,Sensory neuron,Sensory neuron
+AWAL,AFDL,5,Sensory neuron,Sensory neuron
+AWAL,ASEL,3,Sensory neuron,Sensory neuron
+AWAL,ASGL,1,Sensory neuron,Sensory neuron
+AWAL,ASIL,1,Sensory neuron,Sensory neuron
+AWAL,AWBL,5,Sensory neuron,Sensory neuron
+AWAL,AIAL,3,Sensory neuron,Interneuron
+AWAL,AIYL,5,Sensory neuron,Interneuron
+AWAL,AIZL,17,Sensory neuron,Interneuron
+AWAL,AIML,1,Sensory neuron,Modulatory neuron
+AWAL,HSNR,2,Sensory neuron,Modulatory neuron
+AWAL,PVQL,1,Sensory neuron,Modulatory neuron
+AWAR,ADFR,1,Sensory neuron,Sensory neuron
+AWAR,ADLR,2,Sensory neuron,Sensory neuron
+AWAR,AFDR,6,Sensory neuron,Sensory neuron
+AWAR,ASER,9,Sensory neuron,Sensory neuron
+AWAR,ASGR,1,Sensory neuron,Sensory neuron
+AWAR,ASHR,2,Sensory neuron,Sensory neuron
+AWAR,AWBR,6,Sensory neuron,Sensory neuron
+AWAR,AIAR,1,Sensory neuron,Interneuron
+AWAR,AIYR,4,Sensory neuron,Interneuron
+AWAR,AIZR,9,Sensory neuron,Interneuron
+AWAR,RIFR,1,Sensory neuron,Interneuron
+AWAR,RIGR,1,Sensory neuron,Interneuron
+AWBL,ADFL,10,Sensory neuron,Sensory neuron
+AWBL,ASHL,1,Sensory neuron,Sensory neuron
+AWBL,AUAL,1,Sensory neuron,Sensory neuron
+AWBL,AWAL,1,Sensory neuron,Sensory neuron
+AWBL,AIAL,3,Sensory neuron,Interneuron
+AWBL,AIZL,8,Sensory neuron,Interneuron
+AWBL,RIAL,1,Sensory neuron,Interneuron
+AWBL,RIGL,2,Sensory neuron,Interneuron
+AWBL,RIR,2,Sensory neuron,Interneuron
+AWBL,SMBVL,3,Sensory neuron,Motor neuron
+AWBL,AVHR,2,Sensory neuron,Modulatory neuron
+AWBR,ADFL,1,Sensory neuron,Sensory neuron
+AWBR,ADFR,10,Sensory neuron,Sensory neuron
+AWBR,AUAR,1,Sensory neuron,Sensory neuron
+AWBR,AWAR,1,Sensory neuron,Sensory neuron
+AWBR,AIAR,2,Sensory neuron,Interneuron
+AWBR,AIYR,1,Sensory neuron,Interneuron
+AWBR,AIZR,6,Sensory neuron,Interneuron
+AWBR,RIAR,1,Sensory neuron,Interneuron
+AWBR,RIGR,2,Sensory neuron,Interneuron
+AWBR,AIMR,1,Sensory neuron,Modulatory neuron
+AWBR,AVHL,1,Sensory neuron,Modulatory neuron
+AWCL,AFDR,2,Sensory neuron,Sensory neuron
+AWCL,ASIR,1,Sensory neuron,Sensory neuron
+AWCL,AWCR,13,Sensory neuron,Sensory neuron
+AWCL,BAGL,2,Sensory neuron,Sensory neuron
+AWCL,BAGR,2,Sensory neuron,Sensory neuron
+AWCL,IL2L,1,Sensory neuron,Sensory neuron
+AWCL,AIAL,2,Sensory neuron,Interneuron
+AWCL,AIAR,2,Sensory neuron,Interneuron
+AWCL,AIBL,8,Sensory neuron,Interneuron
+AWCL,AIBR,3,Sensory neuron,Interneuron
+AWCL,AIYL,11,Sensory neuron,Interneuron
+AWCL,AIYR,9,Sensory neuron,Interneuron
+AWCL,AIZR,1,Sensory neuron,Interneuron
+AWCL,IL1L,1,Sensory neuron,Motor neuron
+AWCL,RMFL,2,Sensory neuron,Motor neuron
+AWCR,ASER,6,Sensory neuron,Sensory neuron
+AWCR,ASIR,1,Sensory neuron,Sensory neuron
+AWCR,AWCL,9,Sensory neuron,Sensory neuron
+AWCR,AIAL,8,Sensory neuron,Interneuron
+AWCR,AIAR,10,Sensory neuron,Interneuron
+AWCR,AIBL,7,Sensory neuron,Interneuron
+AWCR,AIBR,11,Sensory neuron,Interneuron
+AWCR,AIYL,6,Sensory neuron,Interneuron
+AWCR,AIYR,8,Sensory neuron,Interneuron
+AWCR,AIZL,1,Sensory neuron,Interneuron
+AWCR,AIZR,1,Sensory neuron,Interneuron
+BAGL,AVAR,6,Sensory neuron,Interneuron
+BAGL,AVER,8,Sensory neuron,Interneuron
+BAGL,RIAR,16,Sensory neuron,Interneuron
+BAGL,RIBR,14,Sensory neuron,Interneuron
+BAGL,RIGR,2,Sensory neuron,Interneuron
+BAGL,RMFR,3,Sensory neuron,Motor neuron
+BAGR,AFDL,1,Sensory neuron,Sensory neuron
+BAGR,BAGL,2,Sensory neuron,Sensory neuron
+BAGR,AIBR,2,Sensory neuron,Interneuron
+BAGR,AIYL,2,Sensory neuron,Interneuron
+BAGR,AVAL,5,Sensory neuron,Interneuron
+BAGR,AVEL,11,Sensory neuron,Interneuron
+BAGR,RIAL,19,Sensory neuron,Interneuron
+BAGR,RIBL,21,Sensory neuron,Interneuron
+BAGR,RIBR,2,Sensory neuron,Interneuron
+BAGR,RIGL,5,Sensory neuron,Interneuron
+BAGR,RIR,1,Sensory neuron,Interneuron
+BAGR,RMFL,3,Sensory neuron,Motor neuron
+DVA,AQR,4,Modulatory neuron,Sensory neuron
+DVA,AUAL,2,Modulatory neuron,Sensory neuron
+DVA,AUAR,3,Modulatory neuron,Sensory neuron
+DVA,FLPR,1,Modulatory neuron,Sensory neuron
+DVA,OLQVL,1,Modulatory neuron,Sensory neuron
+DVA,OLQVR,1,Modulatory neuron,Sensory neuron
+DVA,URYDR,1,Modulatory neuron,Sensory neuron
+DVA,URYVL,1,Modulatory neuron,Sensory neuron
+DVA,ADAR,1,Modulatory neuron,Interneuron
+DVA,AIZL,2,Modulatory neuron,Interneuron
+DVA,AIZR,2,Modulatory neuron,Interneuron
+DVA,AVAL,1,Modulatory neuron,Interneuron
+DVA,AVAR,2,Modulatory neuron,Interneuron
+DVA,AVBR,1,Modulatory neuron,Interneuron
+DVA,AVDL,1,Modulatory neuron,Interneuron
+DVA,AVEL,8,Modulatory neuron,Interneuron
+DVA,AVER,7,Modulatory neuron,Interneuron
+DVA,PVCL,1,Modulatory neuron,Interneuron
+DVA,PVCR,1,Modulatory neuron,Interneuron
+DVA,RIAL,2,Modulatory neuron,Interneuron
+DVA,RIAR,1,Modulatory neuron,Interneuron
+DVA,RIBL,2,Modulatory neuron,Interneuron
+DVA,RIH,1,Modulatory neuron,Interneuron
+DVA,RIML,1,Modulatory neuron,Interneuron
+DVA,RIPR,1,Modulatory neuron,Interneuron
+DVA,RIR,2,Modulatory neuron,Interneuron
+DVA,SIBVR,1,Modulatory neuron,Motor neuron
+DVA,SMBDL,1,Modulatory neuron,Motor neuron
+DVA,SMBDR,2,Modulatory neuron,Motor neuron
+DVA,SMBVL,1,Modulatory neuron,Motor neuron
+DVA,SMBVR,2,Modulatory neuron,Motor neuron
+DVA,ADEL,1,Modulatory neuron,Modulatory neuron
+FLPL,DVA,1,Sensory neuron,Modulatory neuron
+FLPL,FLPR,2,Sensory neuron,Sensory neuron
+FLPL,SDQL,1,Sensory neuron,Sensory neuron
+FLPL,SDQR,1,Sensory neuron,Sensory neuron
+FLPL,AIBR,1,Sensory neuron,Interneuron
+FLPL,AVAL,7,Sensory neuron,Interneuron
+FLPL,AVAR,8,Sensory neuron,Interneuron
+FLPL,AVBL,3,Sensory neuron,Interneuron
+FLPL,AVBR,1,Sensory neuron,Interneuron
+FLPL,AVDL,3,Sensory neuron,Interneuron
+FLPL,AVEL,2,Sensory neuron,Interneuron
+FLPL,AVER,3,Sensory neuron,Interneuron
+FLPL,PVCL,1,Sensory neuron,Interneuron
+FLPL,RIH,2,Sensory neuron,Interneuron
+FLPL,ADER,2,Sensory neuron,Modulatory neuron
+FLPL,RIS,1,Sensory neuron,Modulatory neuron
+FLPR,FLPL,1,Sensory neuron,Sensory neuron
+FLPR,ADAR,1,Sensory neuron,Interneuron
+FLPR,AIBL,1,Sensory neuron,Interneuron
+FLPR,AVAL,9,Sensory neuron,Interneuron
+FLPR,AVAR,5,Sensory neuron,Interneuron
+FLPR,AVBL,2,Sensory neuron,Interneuron
+FLPR,AVDL,3,Sensory neuron,Interneuron
+FLPR,AVEL,3,Sensory neuron,Interneuron
+FLPR,PVCL,1,Sensory neuron,Interneuron
+FLPR,ADER,1,Sensory neuron,Modulatory neuron
+IL2DL,OLQDL,5,Sensory neuron,Sensory neuron
+IL2DL,AVEL,1,Sensory neuron,Interneuron
+IL2DL,RIGL,1,Sensory neuron,Interneuron
+IL2DL,RIH,5,Sensory neuron,Interneuron
+IL2DL,RIPL,21,Sensory neuron,Interneuron
+IL2DL,IL1DL,8,Sensory neuron,Motor neuron
+IL2DL,RMDVL,1,Sensory neuron,Motor neuron
+IL2DL,RMED,4,Sensory neuron,Motor neuron
+IL2DL,RMEL,6,Sensory neuron,Motor neuron
+IL2DL,RMER,6,Sensory neuron,Motor neuron
+IL2DL,RMEV,3,Sensory neuron,Motor neuron
+IL2DL,RMHL,1,Sensory neuron,Motor neuron
+IL2DL,URADL,9,Sensory neuron,Motor neuron
+IL2DR,ASIR,1,Sensory neuron,Sensory neuron
+IL2DR,AWCR,1,Sensory neuron,Sensory neuron
+IL2DR,OLQDR,2,Sensory neuron,Sensory neuron
+IL2DR,RIH,4,Sensory neuron,Interneuron
+IL2DR,RIPR,18,Sensory neuron,Interneuron
+IL2DR,IL1DR,7,Sensory neuron,Motor neuron
+IL2DR,RMED,1,Sensory neuron,Motor neuron
+IL2DR,RMEL,4,Sensory neuron,Motor neuron
+IL2DR,RMER,5,Sensory neuron,Motor neuron
+IL2DR,RMEV,2,Sensory neuron,Motor neuron
+IL2DR,URADR,6,Sensory neuron,Motor neuron
+IL2L,ADLL,1,Sensory neuron,Sensory neuron
+IL2L,AWCL,1,Sensory neuron,Sensory neuron
+IL2L,OLLL,2,Sensory neuron,Sensory neuron
+IL2L,OLQDL,7,Sensory neuron,Sensory neuron
+IL2L,OLQVL,5,Sensory neuron,Sensory neuron
+IL2L,URBL,1,Sensory neuron,Sensory neuron
+IL2L,URXL,1,Sensory neuron,Sensory neuron
+IL2L,RIH,10,Sensory neuron,Interneuron
+IL2L,RMDL,1,Sensory neuron,Motor neuron
+IL2L,RMDR,3,Sensory neuron,Motor neuron
+IL2L,SMBVL,1,Sensory neuron,Motor neuron
+IL2L,URAVL,1,Sensory neuron,Motor neuron
+IL2L,ADEL,1,Sensory neuron,Modulatory neuron
+IL2L,RICR,1,Sensory neuron,Modulatory neuron
+IL2R,OLQDR,7,Sensory neuron,Sensory neuron
+IL2R,OLQVR,6,Sensory neuron,Sensory neuron
+IL2R,URXR,1,Sensory neuron,Sensory neuron
+IL2R,RIH,10,Sensory neuron,Interneuron
+IL2R,IL1DR,3,Sensory neuron,Motor neuron
+IL2R,IL1R,2,Sensory neuron,Motor neuron
+IL2R,RMDL,2,Sensory neuron,Motor neuron
+IL2R,RMED,2,Sensory neuron,Motor neuron
+IL2R,RMEL,2,Sensory neuron,Motor neuron
+IL2R,RMER,1,Sensory neuron,Motor neuron
+IL2R,RMEV,1,Sensory neuron,Motor neuron
+IL2R,URADR,1,Sensory neuron,Motor neuron
+IL2R,ADER,2,Sensory neuron,Modulatory neuron
+IL2R,RICL,1,Sensory neuron,Modulatory neuron
+IL2VL,OLQVL,4,Sensory neuron,Sensory neuron
+IL2VL,AIBR,1,Sensory neuron,Interneuron
+IL2VL,RIAL,4,Sensory neuron,Interneuron
+IL2VL,RIBL,2,Sensory neuron,Interneuron
+IL2VL,RIPL,15,Sensory neuron,Interneuron
+IL2VL,IL1VL,5,Sensory neuron,Motor neuron
+IL2VL,RMED,1,Sensory neuron,Motor neuron
+IL2VL,RMEL,4,Sensory neuron,Motor neuron
+IL2VL,RMER,6,Sensory neuron,Motor neuron
+IL2VL,RMEV,1,Sensory neuron,Motor neuron
+IL2VL,URAVL,8,Sensory neuron,Motor neuron
+IL2VR,IL2R,1,Sensory neuron,Sensory neuron
+IL2VR,OLQVR,5,Sensory neuron,Sensory neuron
+IL2VR,URXR,2,Sensory neuron,Sensory neuron
+IL2VR,URYVR,1,Sensory neuron,Sensory neuron
+IL2VR,RIAR,3,Sensory neuron,Interneuron
+IL2VR,RIH,2,Sensory neuron,Interneuron
+IL2VR,RIPR,16,Sensory neuron,Interneuron
+IL2VR,IL1VR,4,Sensory neuron,Motor neuron
+IL2VR,RMED,2,Sensory neuron,Motor neuron
+IL2VR,RMEL,5,Sensory neuron,Motor neuron
+IL2VR,RMER,5,Sensory neuron,Motor neuron
+IL2VR,RMEV,3,Sensory neuron,Motor neuron
+IL2VR,URAVR,7,Sensory neuron,Motor neuron
+IL2VR,CEPVR,1,Sensory neuron,Modulatory neuron
+OLLL,URYVL,1,Sensory neuron,Sensory neuron
+OLLL,AVER,32,Sensory neuron,Interneuron
+OLLL,RIBL,14,Sensory neuron,Interneuron
+OLLL,IL1DL,1,Sensory neuron,Motor neuron
+OLLL,IL1L,1,Sensory neuron,Motor neuron
+OLLL,IL1VL,1,Sensory neuron,Motor neuron
+OLLL,RMDDL,14,Sensory neuron,Motor neuron
+OLLL,RMDL,1,Sensory neuron,Motor neuron
+OLLL,RMDR,2,Sensory neuron,Motor neuron
+OLLL,RMDVL,15,Sensory neuron,Motor neuron
+OLLL,RMEL,1,Sensory neuron,Motor neuron
+OLLL,RMEV,1,Sensory neuron,Motor neuron
+OLLL,SMDDL,2,Sensory neuron,Motor neuron
+OLLL,SMDDR,7,Sensory neuron,Motor neuron
+OLLL,SMDVL,2,Sensory neuron,Motor neuron
+OLLL,SMDVR,6,Sensory neuron,Motor neuron
+OLLL,CEPDL,8,Sensory neuron,Modulatory neuron
+OLLL,CEPVL,8,Sensory neuron,Modulatory neuron
+OLLR,AVEL,32,Sensory neuron,Interneuron
+OLLR,RIBR,13,Sensory neuron,Interneuron
+OLLR,IL1DR,4,Sensory neuron,Motor neuron
+OLLR,IL1R,1,Sensory neuron,Motor neuron
+OLLR,IL1VR,2,Sensory neuron,Motor neuron
+OLLR,RMDDR,12,Sensory neuron,Motor neuron
+OLLR,RMDL,4,Sensory neuron,Motor neuron
+OLLR,RMDR,1,Sensory neuron,Motor neuron
+OLLR,RMDVR,17,Sensory neuron,Motor neuron
+OLLR,RMER,1,Sensory neuron,Motor neuron
+OLLR,SMDDL,6,Sensory neuron,Motor neuron
+OLLR,SMDVL,5,Sensory neuron,Motor neuron
+OLLR,CEPDR,10,Sensory neuron,Modulatory neuron
+OLLR,CEPVR,7,Sensory neuron,Modulatory neuron
+OLQDL,IL2DL,1,Sensory neuron,Sensory neuron
+OLQDL,IL2L,5,Sensory neuron,Sensory neuron
+OLQDL,RIH,1,Sensory neuron,Interneuron
+OLQDL,IL1DL,2,Sensory neuron,Motor neuron
+OLQDL,RMDDR,5,Sensory neuron,Motor neuron
+OLQDL,RMEV,1,Sensory neuron,Motor neuron
+OLQDL,RMHL,2,Sensory neuron,Motor neuron
+OLQDL,SIBVL,5,Sensory neuron,Motor neuron
+OLQDL,SMBDR,1,Sensory neuron,Motor neuron
+OLQDL,CEPDL,1,Sensory neuron,Modulatory neuron
+OLQDL,RICL,1,Sensory neuron,Modulatory neuron
+OLQDL,RICR,1,Sensory neuron,Modulatory neuron
+OLQDR,IL2R,4,Sensory neuron,Sensory neuron
+OLQDR,RMDDL,4,Sensory neuron,Motor neuron
+OLQDR,RMHR,1,Sensory neuron,Motor neuron
+OLQDR,SIADL,1,Sensory neuron,Motor neuron
+OLQDR,SIBVR,4,Sensory neuron,Motor neuron
+OLQDR,SMBDL,1,Sensory neuron,Motor neuron
+OLQDR,RICL,1,Sensory neuron,Modulatory neuron
+OLQDR,RICR,1,Sensory neuron,Modulatory neuron
+OLQVL,IL2L,4,Sensory neuron,Sensory neuron
+OLQVL,URBL,1,Sensory neuron,Sensory neuron
+OLQVL,RMDVR,5,Sensory neuron,Motor neuron
+OLQVL,RMED,1,Sensory neuron,Motor neuron
+OLQVL,RMHL,1,Sensory neuron,Motor neuron
+OLQVL,SIBDL,5,Sensory neuron,Motor neuron
+OLQVL,RICL,1,Sensory neuron,Modulatory neuron
+OLQVL,RICR,1,Sensory neuron,Modulatory neuron
+OLQVR,IL2R,3,Sensory neuron,Sensory neuron
+OLQVR,IL2VR,1,Sensory neuron,Sensory neuron
+OLQVR,RIH,1,Sensory neuron,Interneuron
+OLQVR,RMDVL,7,Sensory neuron,Motor neuron
+OLQVR,RMED,1,Sensory neuron,Motor neuron
+OLQVR,RMER,1,Sensory neuron,Motor neuron
+OLQVR,SIBDR,7,Sensory neuron,Motor neuron
+OLQVR,RICR,1,Sensory neuron,Modulatory neuron
+PLNL,SAADL,9,Sensory neuron,Sensory neuron
+PLNL,SMBVL,8,Sensory neuron,Motor neuron
+PLNL,RMGL,1,Sensory neuron,Modulatory neuron
+PLNR,SAADR,9,Sensory neuron,Sensory neuron
+PLNR,SAAVL,1,Sensory neuron,Sensory neuron
+PLNR,SMBVR,6,Sensory neuron,Motor neuron
+PLNR,SMDVL,3,Sensory neuron,Motor neuron
+PLNR,RMGR,2,Sensory neuron,Modulatory neuron
+SAADL,OLLR,3,Sensory neuron,Sensory neuron
+SAADL,AVAL,11,Sensory neuron,Interneuron
+SAADL,RIML,5,Sensory neuron,Interneuron
+SAADL,RIMR,10,Sensory neuron,Interneuron
+SAADL,RMFR,3,Sensory neuron,Motor neuron
+SAADL,SMDVR,3,Sensory neuron,Motor neuron
+SAADR,OLLL,1,Sensory neuron,Sensory neuron
+SAADR,AVAL,1,Sensory neuron,Interneuron
+SAADR,AVAR,9,Sensory neuron,Interneuron
+SAADR,AVEL,1,Sensory neuron,Interneuron
+SAADR,RIML,8,Sensory neuron,Interneuron
+SAADR,RIMR,8,Sensory neuron,Interneuron
+SAADR,RMFL,2,Sensory neuron,Motor neuron
+SAADR,SMDVL,5,Sensory neuron,Motor neuron
+SAADR,RMGL,1,Sensory neuron,Modulatory neuron
+SAAVL,AIBL,1,Sensory neuron,Interneuron
+SAAVL,AVAL,19,Sensory neuron,Interneuron
+SAAVL,RIML,2,Sensory neuron,Interneuron
+SAAVL,RIMR,15,Sensory neuron,Interneuron
+SAAVL,RMFR,2,Sensory neuron,Motor neuron
+SAAVL,SMDDR,7,Sensory neuron,Motor neuron
+SAAVR,AVAR,21,Sensory neuron,Interneuron
+SAAVR,RIML,17,Sensory neuron,Interneuron
+SAAVR,RIMR,6,Sensory neuron,Interneuron
+SAAVR,SMDDL,6,Sensory neuron,Motor neuron
+SDQL,FLPL,1,Sensory neuron,Sensory neuron
+SDQL,AIBL,1,Sensory neuron,Interneuron
+SDQL,AIBR,2,Sensory neuron,Interneuron
+SDQL,AVAL,2,Sensory neuron,Interneuron
+SDQL,AVAR,3,Sensory neuron,Interneuron
+SDQL,IL1L,1,Sensory neuron,Motor neuron
+SDQL,SMBVL,1,Sensory neuron,Motor neuron
+SDQL,SMDDL,1,Sensory neuron,Motor neuron
+SDQL,RIS,1,Sensory neuron,Modulatory neuron
+SDQR,DVA,7,Sensory neuron,Modulatory neuron
+SDQR,SDQL,1,Sensory neuron,Sensory neuron
+SDQR,AIBL,1,Sensory neuron,Interneuron
+SDQR,AVAR,1,Sensory neuron,Interneuron
+SDQR,AVBL,3,Sensory neuron,Interneuron
+SDQR,AVBR,8,Sensory neuron,Interneuron
+SDQR,SIBVL,1,Sensory neuron,Motor neuron
+SDQR,SMDDR,1,Sensory neuron,Motor neuron
+SDQR,RICR,1,Sensory neuron,Modulatory neuron
+URBL,OLLL,1,Sensory neuron,Sensory neuron
+URBL,URXL,10,Sensory neuron,Sensory neuron
+URBL,ADAL,5,Sensory neuron,Interneuron
+URBL,AVBL,2,Sensory neuron,Interneuron
+URBL,AVDL,1,Sensory neuron,Interneuron
+URBL,IL1L,3,Sensory neuron,Motor neuron
+URBL,RMDDL,1,Sensory neuron,Motor neuron
+URBL,RMDDR,1,Sensory neuron,Motor neuron
+URBL,RMDR,1,Sensory neuron,Motor neuron
+URBL,RMHR,1,Sensory neuron,Motor neuron
+URBL,SIADR,1,Sensory neuron,Motor neuron
+URBL,SMBVL,1,Sensory neuron,Motor neuron
+URBL,SMDDR,1,Sensory neuron,Motor neuron
+URBL,ADEL,1,Sensory neuron,Modulatory neuron
+URBL,CEPDL,2,Sensory neuron,Modulatory neuron
+URBL,CEPVL,1,Sensory neuron,Modulatory neuron
+URBL,RICL,1,Sensory neuron,Modulatory neuron
+URBL,RICR,5,Sensory neuron,Modulatory neuron
+URBL,RMGL,1,Sensory neuron,Modulatory neuron
+URBR,OLLR,1,Sensory neuron,Sensory neuron
+URBR,SDQR,1,Sensory neuron,Sensory neuron
+URBR,URXR,8,Sensory neuron,Sensory neuron
+URBR,ADAR,3,Sensory neuron,Interneuron
+URBR,AVBR,1,Sensory neuron,Interneuron
+URBR,IL1R,1,Sensory neuron,Motor neuron
+URBR,RMDL,1,Sensory neuron,Motor neuron
+URBR,SIAVR,2,Sensory neuron,Motor neuron
+URBR,SMBDL,1,Sensory neuron,Motor neuron
+URBR,CEPDR,2,Sensory neuron,Modulatory neuron
+URBR,CEPVR,1,Sensory neuron,Modulatory neuron
+URBR,RICL,2,Sensory neuron,Modulatory neuron
+URXL,AQR,1,Sensory neuron,Sensory neuron
+URXL,AUAL,14,Sensory neuron,Sensory neuron
+URXL,IL2L,1,Sensory neuron,Sensory neuron
+URXL,AVEL,4,Sensory neuron,Interneuron
+URXL,RIAL,21,Sensory neuron,Interneuron
+URXL,RIGL,10,Sensory neuron,Interneuron
+URXL,RIR,7,Sensory neuron,Interneuron
+URXL,SMBDR,1,Sensory neuron,Motor neuron
+URXL,RICL,3,Sensory neuron,Modulatory neuron
+URXL,RICR,2,Sensory neuron,Modulatory neuron
+URXL,RMGL,2,Sensory neuron,Modulatory neuron
+URXR,AQR,1,Sensory neuron,Sensory neuron
+URXR,AUAR,16,Sensory neuron,Sensory neuron
+URXR,IL2R,3,Sensory neuron,Sensory neuron
+URXR,AIBL,1,Sensory neuron,Interneuron
+URXR,AVER,3,Sensory neuron,Interneuron
+URXR,RIAR,28,Sensory neuron,Interneuron
+URXR,RIGR,9,Sensory neuron,Interneuron
+URXR,RIR,7,Sensory neuron,Interneuron
+URXR,IL1R,1,Sensory neuron,Motor neuron
+URXR,RICL,1,Sensory neuron,Modulatory neuron
+URXR,RICR,4,Sensory neuron,Modulatory neuron
+URXR,RMGR,1,Sensory neuron,Modulatory neuron
+URYDL,OLQDL,1,Sensory neuron,Sensory neuron
+URYDL,AVBL,1,Sensory neuron,Interneuron
+URYDL,AVBR,1,Sensory neuron,Interneuron
+URYDL,AVDL,2,Sensory neuron,Interneuron
+URYDL,AVDR,1,Sensory neuron,Interneuron
+URYDL,AVEL,1,Sensory neuron,Interneuron
+URYDL,AVER,7,Sensory neuron,Interneuron
+URYDL,RIBL,3,Sensory neuron,Interneuron
+URYDL,IL1DL,6,Sensory neuron,Motor neuron
+URYDL,RMDDR,6,Sensory neuron,Motor neuron
+URYDL,RMDVL,16,Sensory neuron,Motor neuron
+URYDL,SMDDR,7,Sensory neuron,Motor neuron
+URYDL,CEPDL,3,Sensory neuron,Modulatory neuron
+URYDL,RID,1,Sensory neuron,Modulatory neuron
+URYDR,OLQDR,1,Sensory neuron,Sensory neuron
+URYDR,AVBR,1,Sensory neuron,Interneuron
+URYDR,AVDR,1,Sensory neuron,Interneuron
+URYDR,AVEL,5,Sensory neuron,Interneuron
+URYDR,RIBR,3,Sensory neuron,Interneuron
+URYDR,IL1DR,5,Sensory neuron,Motor neuron
+URYDR,RMDDL,7,Sensory neuron,Motor neuron
+URYDR,RMDVR,16,Sensory neuron,Motor neuron
+URYDR,SMDDL,4,Sensory neuron,Motor neuron
+URYVL,OLLL,1,Sensory neuron,Sensory neuron
+URYVL,AVBL,1,Sensory neuron,Interneuron
+URYVL,AVER,11,Sensory neuron,Interneuron
+URYVL,RIBL,7,Sensory neuron,Interneuron
+URYVL,IL1VL,3,Sensory neuron,Motor neuron
+URYVL,RMDDL,14,Sensory neuron,Motor neuron
+URYVL,RMDVR,6,Sensory neuron,Motor neuron
+URYVL,SIBVL,1,Sensory neuron,Motor neuron
+URYVL,SIBVR,2,Sensory neuron,Motor neuron
+URYVL,SMDVR,6,Sensory neuron,Motor neuron
+URYVL,RID,1,Sensory neuron,Modulatory neuron
+URYVL,RIS,1,Sensory neuron,Modulatory neuron
+URYVR,AIBL,1,Sensory neuron,Interneuron
+URYVR,AVAL,1,Sensory neuron,Interneuron
+URYVR,AVBL,3,Sensory neuron,Interneuron
+URYVR,AVBR,2,Sensory neuron,Interneuron
+URYVR,AVDL,1,Sensory neuron,Interneuron
+URYVR,AVEL,6,Sensory neuron,Interneuron
+URYVR,RIBR,2,Sensory neuron,Interneuron
+URYVR,RIPR,1,Sensory neuron,Interneuron
+URYVR,IL1VR,3,Sensory neuron,Motor neuron
+URYVR,RMDDR,11,Sensory neuron,Motor neuron
+URYVR,RMDVL,8,Sensory neuron,Motor neuron
+URYVR,SIBDR,1,Sensory neuron,Motor neuron
+URYVR,SIBVL,2,Sensory neuron,Motor neuron
+URYVR,SIBVR,1,Sensory neuron,Motor neuron
+URYVR,SMDVL,4,Sensory neuron,Motor neuron
+ADAL,OLQVL,1,Interneuron,Sensory neuron
+ADAL,SAADL,1,Interneuron,Sensory neuron
+ADAL,AVAL,2,Interneuron,Interneuron
+ADAL,AVAR,1,Interneuron,Interneuron
+ADAL,AVBL,16,Interneuron,Interneuron
+ADAL,AVBR,6,Interneuron,Interneuron
+ADAL,AVDR,1,Interneuron,Interneuron
+ADAL,AVJL,1,Interneuron,Modulatory neuron
+ADAL,AVJR,7,Interneuron,Modulatory neuron
+ADAL,RIML,6,Interneuron,Interneuron
+ADAL,RIPL,7,Interneuron,Interneuron
+ADAL,RIPR,2,Interneuron,Interneuron
+ADAL,RMFL,2,Interneuron,Motor neuron
+ADAL,SMDVR,1,Interneuron,Motor neuron
+ADAR,AVAL,1,Interneuron,Interneuron
+ADAR,AVAR,2,Interneuron,Interneuron
+ADAR,AVBL,5,Interneuron,Interneuron
+ADAR,AVBR,19,Interneuron,Interneuron
+ADAR,AVER,1,Interneuron,Interneuron
+ADAR,AVJL,10,Interneuron,Modulatory neuron
+ADAR,RIMR,5,Interneuron,Interneuron
+ADAR,RIPR,4,Interneuron,Interneuron
+ADAR,RMFR,2,Interneuron,Motor neuron
+ADAR,SMDVL,1,Interneuron,Motor neuron
+ADAR,RICR,1,Interneuron,Modulatory neuron
+AIAL,ADLL,4,Interneuron,Sensory neuron
+AIAL,ASER,1,Interneuron,Sensory neuron
+AIAL,ASGL,1,Interneuron,Sensory neuron
+AIAL,ASKL,2,Interneuron,Sensory neuron
+AIAL,AWCL,1,Interneuron,Sensory neuron
+AIAL,AWCR,7,Interneuron,Sensory neuron
+AIAL,ADAL,3,Interneuron,Interneuron
+AIAL,AIBL,17,Interneuron,Interneuron
+AIAL,RIFL,1,Interneuron,Interneuron
+AIAR,ADLR,3,Interneuron,Sensory neuron
+AIAR,ASGR,2,Interneuron,Sensory neuron
+AIAR,ASIL,1,Interneuron,Sensory neuron
+AIAR,ASKR,1,Interneuron,Sensory neuron
+AIAR,AWCL,1,Interneuron,Sensory neuron
+AIAR,AWCR,12,Interneuron,Sensory neuron
+AIAR,ADAR,2,Interneuron,Interneuron
+AIAR,AIBR,18,Interneuron,Interneuron
+AIAR,RIFR,2,Interneuron,Interneuron
+AIAR,PVQR,1,Interneuron,Modulatory neuron
+AIBL,ADLL,1,Interneuron,Sensory neuron
+AIBL,AUAL,1,Interneuron,Sensory neuron
+AIBL,AUAR,1,Interneuron,Sensory neuron
+AIBL,BAGL,1,Interneuron,Sensory neuron
+AIBL,SAADL,2,Interneuron,Sensory neuron
+AIBL,SAAVL,2,Interneuron,Sensory neuron
+AIBL,AIAL,1,Interneuron,Interneuron
+AIBL,AIBR,2,Interneuron,Interneuron
+AIBL,AIYL,1,Interneuron,Interneuron
+AIBL,AVAL,1,Interneuron,Interneuron
+AIBL,AVAR,1,Interneuron,Interneuron
+AIBL,AVBL,7,Interneuron,Interneuron
+AIBL,RIBL,1,Interneuron,Interneuron
+AIBL,RIBR,10,Interneuron,Interneuron
+AIBL,RIGR,2,Interneuron,Interneuron
+AIBL,RIMR,23,Interneuron,Interneuron
+AIBL,RMFR,3,Interneuron,Motor neuron
+AIBL,SIBVL,1,Interneuron,Motor neuron
+AIBL,SMDDR,5,Interneuron,Motor neuron
+AIBL,SMDVR,7,Interneuron,Motor neuron
+AIBR,AUAL,2,Interneuron,Sensory neuron
+AIBR,BAGR,1,Interneuron,Sensory neuron
+AIBR,DVA,1,Interneuron,Modulatory neuron
+AIBR,SAADL,2,Interneuron,Sensory neuron
+AIBR,SAADR,1,Interneuron,Sensory neuron
+AIBR,SAAVR,2,Interneuron,Sensory neuron
+AIBR,AIZL,2,Interneuron,Interneuron
+AIBR,AVAL,1,Interneuron,Interneuron
+AIBR,AVAR,4,Interneuron,Interneuron
+AIBR,AVBR,7,Interneuron,Interneuron
+AIBR,AVEL,2,Interneuron,Interneuron
+AIBR,AVER,1,Interneuron,Interneuron
+AIBR,RIAL,1,Interneuron,Interneuron
+AIBR,RIBL,10,Interneuron,Interneuron
+AIBR,RIBR,1,Interneuron,Interneuron
+AIBR,RIGL,2,Interneuron,Interneuron
+AIBR,RIML,19,Interneuron,Interneuron
+AIBR,RIMR,1,Interneuron,Interneuron
+AIBR,RIVR,1,Interneuron,Motor neuron
+AIBR,RMFL,1,Interneuron,Motor neuron
+AIBR,SMDDL,6,Interneuron,Motor neuron
+AIBR,SMDVL,6,Interneuron,Motor neuron
+AIBR,AVKL,1,Interneuron,Modulatory neuron
+AINL,AFDL,2,Interneuron,Sensory neuron
+AINL,AFDR,7,Interneuron,Sensory neuron
+AINL,ASEL,2,Interneuron,Sensory neuron
+AINL,AUAR,3,Interneuron,Sensory neuron
+AINL,BAGL,8,Interneuron,Sensory neuron
+AINL,AIBL,1,Interneuron,Interneuron
+AINL,AINR,1,Interneuron,Interneuron
+AINL,AIYR,1,Interneuron,Interneuron
+AINL,AVAR,1,Interneuron,Interneuron
+AINL,RIBR,7,Interneuron,Interneuron
+AINL,RIMR,2,Interneuron,Interneuron
+AINL,RMFL,2,Interneuron,Motor neuron
+AINL,CEPVR,2,Interneuron,Modulatory neuron
+AINL,RID,2,Interneuron,Modulatory neuron
+AINR,AFDL,7,Interneuron,Sensory neuron
+AINR,AFDR,1,Interneuron,Sensory neuron
+AINR,ASER,1,Interneuron,Sensory neuron
+AINR,AUAL,2,Interneuron,Sensory neuron
+AINR,BAGL,1,Interneuron,Sensory neuron
+AINR,BAGR,7,Interneuron,Sensory neuron
+AINR,AIAR,1,Interneuron,Interneuron
+AINR,AIBR,1,Interneuron,Interneuron
+AINR,RIBL,5,Interneuron,Interneuron
+AINR,RIBR,1,Interneuron,Interneuron
+AINR,CEPVL,3,Interneuron,Modulatory neuron
+AINR,RID,3,Interneuron,Modulatory neuron
+AIYL,ADFL,1,Interneuron,Sensory neuron
+AIYL,ASEL,1,Interneuron,Sensory neuron
+AIYL,AUAL,1,Interneuron,Sensory neuron
+AIYL,AWAL,1,Interneuron,Sensory neuron
+AIYL,AWBL,1,Interneuron,Sensory neuron
+AIYL,BAGR,2,Interneuron,Sensory neuron
+AIYL,AIBL,2,Interneuron,Interneuron
+AIYL,AIZL,10,Interneuron,Interneuron
+AIYL,AIZR,1,Interneuron,Interneuron
+AIYL,AVBL,1,Interneuron,Interneuron
+AIYL,RIAL,1,Interneuron,Interneuron
+AIYL,RIAR,2,Interneuron,Interneuron
+AIYL,RIBL,7,Interneuron,Interneuron
+AIYL,RIBR,1,Interneuron,Interneuron
+AIYL,RIML,1,Interneuron,Interneuron
+AIYR,AFDR,1,Interneuron,Sensory neuron
+AIYR,ASER,2,Interneuron,Sensory neuron
+AIYR,AUAR,2,Interneuron,Sensory neuron
+AIYR,AWAR,2,Interneuron,Sensory neuron
+AIYR,AWBR,1,Interneuron,Sensory neuron
+AIYR,BAGL,1,Interneuron,Sensory neuron
+AIYR,AIZR,12,Interneuron,Interneuron
+AIYR,RIAR,3,Interneuron,Interneuron
+AIYR,RIBR,4,Interneuron,Interneuron
+AIZL,ASEL,2,Interneuron,Sensory neuron
+AIZL,ASGL,1,Interneuron,Sensory neuron
+AIZL,AWCR,1,Interneuron,Sensory neuron
+AIZL,BAGR,1,Interneuron,Sensory neuron
+AIZL,DVA,1,Interneuron,Modulatory neuron
+AIZL,AIAL,12,Interneuron,Interneuron
+AIZL,AIBL,11,Interneuron,Interneuron
+AIZL,AIBR,27,Interneuron,Interneuron
+AIZL,AIZR,1,Interneuron,Interneuron
+AIZL,AVDL,1,Interneuron,Interneuron
+AIZL,AVEL,3,Interneuron,Interneuron
+AIZL,AVER,8,Interneuron,Interneuron
+AIZL,RIAL,9,Interneuron,Interneuron
+AIZL,RIAR,3,Interneuron,Interneuron
+AIZL,RIML,20,Interneuron,Interneuron
+AIZL,SMBDL,13,Interneuron,Motor neuron
+AIZL,SMBDR,1,Interneuron,Motor neuron
+AIZL,SMBVL,13,Interneuron,Motor neuron
+AIZL,SMBVR,3,Interneuron,Motor neuron
+AIZL,RID,1,Interneuron,Modulatory neuron
+AIZR,ASER,1,Interneuron,Sensory neuron
+AIZR,AWAR,1,Interneuron,Sensory neuron
+AIZR,AWBR,2,Interneuron,Sensory neuron
+AIZR,AWCR,2,Interneuron,Sensory neuron
+AIZR,BAGL,1,Interneuron,Sensory neuron
+AIZR,AIAR,10,Interneuron,Interneuron
+AIZR,AIBL,26,Interneuron,Interneuron
+AIZR,AIBR,9,Interneuron,Interneuron
+AIZR,AIYR,1,Interneuron,Interneuron
+AIZR,AVAL,1,Interneuron,Interneuron
+AIZR,AVEL,7,Interneuron,Interneuron
+AIZR,AVER,2,Interneuron,Interneuron
+AIZR,RIAR,8,Interneuron,Interneuron
+AIZR,RIH,1,Interneuron,Interneuron
+AIZR,RIMR,20,Interneuron,Interneuron
+AIZR,SMBDR,8,Interneuron,Motor neuron
+AIZR,SMBVR,11,Interneuron,Motor neuron
+AVJL,ASKL,1,Modulatory neuron,Sensory neuron
+AVJL,AVM,1,Modulatory neuron,Sensory neuron
+AVJL,AVBR,2,Modulatory neuron,Interneuron
+AVJL,AVDL,1,Modulatory neuron,Interneuron
+AVJL,PVCL,1,Modulatory neuron,Interneuron
+AVJL,PVCR,2,Modulatory neuron,Interneuron
+AVJL,PVNR,1,Modulatory neuron,Modulatory neuron
+AVJR,AQR,1,Modulatory neuron,Sensory neuron
+AVJR,AVM,1,Modulatory neuron,Sensory neuron
+AVJR,AIYL,1,Modulatory neuron,Interneuron
+AVJR,AVAL,1,Modulatory neuron,Interneuron
+AVJR,AVBL,4,Modulatory neuron,Interneuron
+AVJR,AVBR,1,Modulatory neuron,Interneuron
+AVJR,PVCL,1,Modulatory neuron,Interneuron
+AVJR,PVPL,1,Modulatory neuron,Interneuron
+AVJR,RIML,1,Modulatory neuron,Interneuron
+AVJR,RIS,1,Modulatory neuron,Modulatory neuron
+BDUL,AVM,1,Interneuron,Sensory neuron
+BDUL,IL2DL,1,Interneuron,Sensory neuron
+BDUL,SDQL,1,Interneuron,Sensory neuron
+BDUL,AVDR,1,Interneuron,Interneuron
+BDUL,AVJL,1,Interneuron,Modulatory neuron
+BDUL,PVCR,1,Interneuron,Interneuron
+BDUL,URADL,1,Interneuron,Motor neuron
+BDUL,ADEL,2,Interneuron,Modulatory neuron
+BDUL,AVFL,1,Interneuron,Modulatory neuron
+BDUL,AVFR,2,Interneuron,Modulatory neuron
+BDUL,AVKR,1,Interneuron,Modulatory neuron
+BDUL,PVNL,4,Interneuron,Modulatory neuron
+BDUL,PVNR,2,Interneuron,Modulatory neuron
+BDUL,RID,1,Interneuron,Modulatory neuron
+BDUR,ALMR,4,Interneuron,Sensory neuron
+BDUR,AVM,1,Interneuron,Sensory neuron
+BDUR,AVJR,2,Interneuron,Modulatory neuron
+BDUR,AVFL,1,Interneuron,Modulatory neuron
+BDUR,AVFR,4,Interneuron,Modulatory neuron
+BDUR,HSNR,1,Interneuron,Modulatory neuron
+BDUR,PVNL,4,Interneuron,Modulatory neuron
+BDUR,PVNR,6,Interneuron,Modulatory neuron
+PVCL,FLPR,1,Interneuron,Sensory neuron
+PVCL,SAAVR,1,Interneuron,Sensory neuron
+PVCL,ADAL,1,Interneuron,Interneuron
+PVCL,AVAL,2,Interneuron,Interneuron
+PVCL,AVAR,1,Interneuron,Interneuron
+PVCL,AVBL,5,Interneuron,Interneuron
+PVCL,AVBR,9,Interneuron,Interneuron
+PVCL,AVDL,1,Interneuron,Interneuron
+PVCL,AVDR,4,Interneuron,Interneuron
+PVCL,AVEL,3,Interneuron,Interneuron
+PVCL,AVER,1,Interneuron,Interneuron
+PVCL,AVJL,2,Interneuron,Modulatory neuron
+PVCL,AVJR,1,Interneuron,Modulatory neuron
+PVCL,PVCR,1,Interneuron,Interneuron
+PVCL,SIBDL,1,Interneuron,Motor neuron
+PVCL,SIBVL,1,Interneuron,Motor neuron
+PVCL,AVHR,1,Interneuron,Modulatory neuron
+PVCL,RID,6,Interneuron,Modulatory neuron
+PVCL,RIS,1,Interneuron,Modulatory neuron
+PVCR,AQR,1,Interneuron,Sensory neuron
+PVCR,AVAL,1,Interneuron,Interneuron
+PVCR,AVAR,4,Interneuron,Interneuron
+PVCR,AVBL,11,Interneuron,Interneuron
+PVCR,AVBR,8,Interneuron,Interneuron
+PVCR,AVDL,6,Interneuron,Interneuron
+PVCR,AVDR,1,Interneuron,Interneuron
+PVCR,AVEL,3,Interneuron,Interneuron
+PVCR,AVER,1,Interneuron,Interneuron
+PVCR,AVJL,2,Interneuron,Modulatory neuron
+PVCR,SIBDR,6,Interneuron,Motor neuron
+PVCR,SIBVL,1,Interneuron,Motor neuron
+PVCR,SIBVR,4,Interneuron,Motor neuron
+PVCR,AVHL,1,Interneuron,Modulatory neuron
+PVCR,AVKR,1,Interneuron,Modulatory neuron
+PVPL,AQR,3,Interneuron,Sensory neuron
+PVPL,ASHL,1,Interneuron,Sensory neuron
+PVPL,ADAL,1,Interneuron,Interneuron
+PVPL,AVAL,3,Interneuron,Interneuron
+PVPL,AVAR,2,Interneuron,Interneuron
+PVPL,AVBL,9,Interneuron,Interneuron
+PVPL,AVBR,4,Interneuron,Interneuron
+PVPL,AVDR,1,Interneuron,Interneuron
+PVPL,AVER,2,Interneuron,Interneuron
+PVPL,PVCL,5,Interneuron,Interneuron
+PVPL,RIFL,1,Interneuron,Interneuron
+PVPL,RIGL,1,Interneuron,Interneuron
+PVPL,RIR,1,Interneuron,Interneuron
+PVPL,RMFL,1,Interneuron,Motor neuron
+PVPL,AVHR,1,Interneuron,Modulatory neuron
+PVPR,AQR,1,Interneuron,Sensory neuron
+PVPR,ADAR,1,Interneuron,Interneuron
+PVPR,AIBL,1,Interneuron,Interneuron
+PVPR,AVAR,2,Interneuron,Interneuron
+PVPR,AVBL,5,Interneuron,Interneuron
+PVPR,AVBR,7,Interneuron,Interneuron
+PVPR,AVEL,1,Interneuron,Interneuron
+PVPR,AVJL,1,Interneuron,Modulatory neuron
+PVPR,PVCL,3,Interneuron,Interneuron
+PVPR,PVCR,4,Interneuron,Interneuron
+PVPR,RIAR,2,Interneuron,Interneuron
+PVPR,RIFR,2,Interneuron,Interneuron
+PVPR,RIR,1,Interneuron,Interneuron
+PVPR,AVHL,1,Interneuron,Modulatory neuron
+PVR,AVBL,10,Interneuron,Interneuron
+PVR,AVBR,9,Interneuron,Interneuron
+PVR,AVJL,1,Interneuron,Modulatory neuron
+PVR,AVJR,11,Interneuron,Modulatory neuron
+PVR,RIPL,8,Interneuron,Interneuron
+PVR,RIPR,7,Interneuron,Interneuron
+PVR,IL1DR,1,Interneuron,Motor neuron
+PVR,IL1VL,4,Interneuron,Motor neuron
+PVR,IL1VR,3,Interneuron,Motor neuron
+PVT,IL2VL,1,Interneuron,Sensory neuron
+PVT,IL2VR,1,Interneuron,Sensory neuron
+PVT,URYVL,1,Interneuron,Sensory neuron
+PVT,AIBL,3,Interneuron,Interneuron
+PVT,AIBR,5,Interneuron,Interneuron
+PVT,RIGL,3,Interneuron,Interneuron
+PVT,RIGR,4,Interneuron,Interneuron
+PVT,RMFL,6,Interneuron,Motor neuron
+PVT,RMFR,2,Interneuron,Motor neuron
+PVT,URAVL,1,Interneuron,Motor neuron
+PVT,URAVR,1,Interneuron,Motor neuron
+PVT,AVKL,11,Interneuron,Modulatory neuron
+PVT,AVKR,15,Interneuron,Modulatory neuron
+PVT,AVL,7,Interneuron,Modulatory neuron
+PVT,DVC,13,Interneuron,Interneuron
+RIAL,RIAR,48,Interneuron,Interneuron
+RIAL,IL1L,1,Interneuron,Motor neuron
+RIAL,RIVL,3,Interneuron,Motor neuron
+RIAL,RIVR,2,Interneuron,Motor neuron
+RIAL,RMDDL,19,Interneuron,Motor neuron
+RIAL,RMDDR,18,Interneuron,Motor neuron
+RIAL,RMDL,26,Interneuron,Motor neuron
+RIAL,RMDR,28,Interneuron,Motor neuron
+RIAL,RMDVL,24,Interneuron,Motor neuron
+RIAL,RMDVR,16,Interneuron,Motor neuron
+RIAL,SIADL,12,Interneuron,Motor neuron
+RIAL,SIADR,2,Interneuron,Motor neuron
+RIAL,SIAVR,9,Interneuron,Motor neuron
+RIAL,SMBDL,1,Interneuron,Motor neuron
+RIAL,SMBVL,1,Interneuron,Motor neuron
+RIAL,SMDDL,11,Interneuron,Motor neuron
+RIAL,SMDDR,18,Interneuron,Motor neuron
+RIAL,SMDVL,17,Interneuron,Motor neuron
+RIAL,SMDVR,17,Interneuron,Motor neuron
+RIAL,CEPDL,1,Interneuron,Modulatory neuron
+RIAL,CEPVL,3,Interneuron,Modulatory neuron
+RIAR,RIAL,51,Interneuron,Interneuron
+RIAR,IL1R,2,Interneuron,Motor neuron
+RIAR,RIVL,2,Interneuron,Motor neuron
+RIAR,RIVR,6,Interneuron,Motor neuron
+RIAR,RMDDL,20,Interneuron,Motor neuron
+RIAR,RMDDR,29,Interneuron,Motor neuron
+RIAR,RMDL,22,Interneuron,Motor neuron
+RIAR,RMDR,26,Interneuron,Motor neuron
+RIAR,RMDVL,22,Interneuron,Motor neuron
+RIAR,RMDVR,27,Interneuron,Motor neuron
+RIAR,RMFR,1,Interneuron,Motor neuron
+RIAR,SIADL,2,Interneuron,Motor neuron
+RIAR,SIADR,12,Interneuron,Motor neuron
+RIAR,SIAVL,10,Interneuron,Motor neuron
+RIAR,SMDDL,20,Interneuron,Motor neuron
+RIAR,SMDDR,25,Interneuron,Motor neuron
+RIAR,SMDVL,22,Interneuron,Motor neuron
+RIAR,SMDVR,15,Interneuron,Motor neuron
+RIAR,CEPDL,1,Interneuron,Modulatory neuron
+RIAR,CEPVL,1,Interneuron,Modulatory neuron
+RIAR,CEPVR,1,Interneuron,Modulatory neuron
+RIBL,AUAL,2,Interneuron,Sensory neuron
+RIBL,BAGR,7,Interneuron,Sensory neuron
+RIBL,DVA,1,Interneuron,Modulatory neuron
+RIBL,OLLL,1,Interneuron,Sensory neuron
+RIBL,URYDL,1,Interneuron,Sensory neuron
+RIBL,URYVL,1,Interneuron,Sensory neuron
+RIBL,AIBR,8,Interneuron,Interneuron
+RIBL,AIZL,1,Interneuron,Interneuron
+RIBL,AVAL,2,Interneuron,Interneuron
+RIBL,AVAR,2,Interneuron,Interneuron
+RIBL,AVEL,6,Interneuron,Interneuron
+RIBL,AVER,10,Interneuron,Interneuron
+RIBL,RIAL,4,Interneuron,Interneuron
+RIBL,RIGL,1,Interneuron,Interneuron
+RIBL,RMDR,1,Interneuron,Motor neuron
+RIBL,SMDDR,1,Interneuron,Motor neuron
+RIBL,SMDVR,2,Interneuron,Motor neuron
+RIBL,CEPDL,1,Interneuron,Modulatory neuron
+RIBL,CEPVL,1,Interneuron,Modulatory neuron
+RIBL,RIS,3,Interneuron,Modulatory neuron
+RIBR,AUAR,1,Interneuron,Sensory neuron
+RIBR,AWBR,1,Interneuron,Sensory neuron
+RIBR,BAGL,9,Interneuron,Sensory neuron
+RIBR,URYDR,1,Interneuron,Sensory neuron
+RIBR,URYVR,2,Interneuron,Sensory neuron
+RIBR,AIBL,2,Interneuron,Interneuron
+RIBR,AVAR,2,Interneuron,Interneuron
+RIBR,AVEL,10,Interneuron,Interneuron
+RIBR,AVER,3,Interneuron,Interneuron
+RIBR,RIAR,4,Interneuron,Interneuron
+RIBR,RIGR,2,Interneuron,Interneuron
+RIBR,RIH,1,Interneuron,Interneuron
+RIBR,RMDL,2,Interneuron,Motor neuron
+RIBR,RMFL,1,Interneuron,Motor neuron
+RIBR,RMFR,1,Interneuron,Motor neuron
+RIBR,SMDDL,1,Interneuron,Motor neuron
+RIBR,SMDDR,1,Interneuron,Motor neuron
+RIBR,SMDVL,2,Interneuron,Motor neuron
+RIBR,RIS,2,Interneuron,Modulatory neuron
+RIFL,ALML,2,Interneuron,Sensory neuron
+RIFL,ASHL,1,Interneuron,Sensory neuron
+RIFL,URXL,1,Interneuron,Sensory neuron
+RIFL,ADAL,1,Interneuron,Interneuron
+RIFL,AVBL,13,Interneuron,Interneuron
+RIFL,AVBR,1,Interneuron,Interneuron
+RIFL,AVEL,1,Interneuron,Interneuron
+RIFL,AVJL,2,Interneuron,Modulatory neuron
+RIFL,AVJR,3,Interneuron,Modulatory neuron
+RIFL,BDUL,1,Interneuron,Interneuron
+RIFL,PVPL,5,Interneuron,Interneuron
+RIFL,RIML,3,Interneuron,Interneuron
+RIFL,AVHL,2,Interneuron,Modulatory neuron
+RIFL,AVHR,1,Interneuron,Modulatory neuron
+RIFR,ADAR,1,Interneuron,Interneuron
+RIFR,AVBR,17,Interneuron,Interneuron
+RIFR,BDUR,1,Interneuron,Interneuron
+RIFR,PVPR,4,Interneuron,Interneuron
+RIFR,RIMR,8,Interneuron,Interneuron
+RIFR,AVFR,1,Interneuron,Modulatory neuron
+RIFR,AVHL,2,Interneuron,Modulatory neuron
+RIFR,AVHR,2,Interneuron,Modulatory neuron
+RIFR,HSNL,1,Interneuron,Modulatory neuron
+RIFR,HSNR,1,Interneuron,Modulatory neuron
+RIGL,BAGR,7,Interneuron,Sensory neuron
+RIGL,OLQVL,1,Interneuron,Sensory neuron
+RIGL,PLNL,1,Interneuron,Sensory neuron
+RIGL,SAADL,1,Interneuron,Sensory neuron
+RIGL,URYDL,1,Interneuron,Sensory neuron
+RIGL,URYVL,1,Interneuron,Sensory neuron
+RIGL,AIBR,4,Interneuron,Interneuron
+RIGL,AIZL,8,Interneuron,Interneuron
+RIGL,AIZR,1,Interneuron,Interneuron
+RIGL,AVEL,8,Interneuron,Interneuron
+RIGL,AVER,3,Interneuron,Interneuron
+RIGL,PVT,1,Interneuron,Interneuron
+RIGL,RIAL,6,Interneuron,Interneuron
+RIGL,RIBL,5,Interneuron,Interneuron
+RIGL,RIR,2,Interneuron,Interneuron
+RIGL,RIVR,3,Interneuron,Motor neuron
+RIGL,RMFL,5,Interneuron,Motor neuron
+RIGL,RMHR,7,Interneuron,Motor neuron
+RIGL,AVKR,3,Interneuron,Modulatory neuron
+RIGL,DVC,2,Interneuron,Interneuron
+RIGR,ADFR,1,Interneuron,Sensory neuron
+RIGR,ALNR,1,Interneuron,Sensory neuron
+RIGR,BAGL,13,Interneuron,Sensory neuron
+RIGR,OLQVR,2,Interneuron,Sensory neuron
+RIGR,SAADR,1,Interneuron,Sensory neuron
+RIGR,URYDR,1,Interneuron,Sensory neuron
+RIGR,URYVR,1,Interneuron,Sensory neuron
+RIGR,AIBL,4,Interneuron,Interneuron
+RIGR,AIZL,1,Interneuron,Interneuron
+RIGR,AIZR,9,Interneuron,Interneuron
+RIGR,AVEL,1,Interneuron,Interneuron
+RIGR,AVER,7,Interneuron,Interneuron
+RIGR,RIBR,5,Interneuron,Interneuron
+RIGR,RIR,1,Interneuron,Interneuron
+RIGR,RMFR,5,Interneuron,Motor neuron
+RIGR,RMHL,5,Interneuron,Motor neuron
+RIGR,AVKL,4,Interneuron,Modulatory neuron
+RIGR,AVKR,1,Interneuron,Modulatory neuron
+RIGR,DVC,3,Interneuron,Interneuron
+RIGR,RMGR,1,Interneuron,Modulatory neuron
+RIH,AUAL,2,Interneuron,Sensory neuron
+RIH,BAGL,1,Interneuron,Sensory neuron
+RIH,IL2L,1,Interneuron,Sensory neuron
+RIH,IL2R,2,Interneuron,Sensory neuron
+RIH,OLQDL,6,Interneuron,Sensory neuron
+RIH,OLQDR,6,Interneuron,Sensory neuron
+RIH,OLQVL,4,Interneuron,Sensory neuron
+RIH,OLQVR,4,Interneuron,Sensory neuron
+RIH,URYVR,2,Interneuron,Sensory neuron
+RIH,AIYR,1,Interneuron,Interneuron
+RIH,AIZL,8,Interneuron,Interneuron
+RIH,AIZR,5,Interneuron,Interneuron
+RIH,AVEL,1,Interneuron,Interneuron
+RIH,RIAL,3,Interneuron,Interneuron
+RIH,RIAR,12,Interneuron,Interneuron
+RIH,RIBL,6,Interneuron,Interneuron
+RIH,RIBR,7,Interneuron,Interneuron
+RIH,RIGR,1,Interneuron,Interneuron
+RIH,RIPL,7,Interneuron,Interneuron
+RIH,RIPR,9,Interneuron,Interneuron
+RIH,IL1VR,2,Interneuron,Motor neuron
+RIH,RMEV,1,Interneuron,Motor neuron
+RIH,CEPDL,3,Interneuron,Modulatory neuron
+RIH,CEPDR,2,Interneuron,Modulatory neuron
+RIH,CEPVL,1,Interneuron,Modulatory neuron
+RIH,CEPVR,5,Interneuron,Modulatory neuron
+RIML,SAADL,2,Interneuron,Sensory neuron
+RIML,SAADR,4,Interneuron,Sensory neuron
+RIML,SAAVL,2,Interneuron,Sensory neuron
+RIML,SAAVR,6,Interneuron,Sensory neuron
+RIML,ADAL,1,Interneuron,Interneuron
+RIML,AIBR,7,Interneuron,Interneuron
+RIML,AIZL,1,Interneuron,Interneuron
+RIML,AVBL,2,Interneuron,Interneuron
+RIML,AVBR,7,Interneuron,Interneuron
+RIML,AVEL,1,Interneuron,Interneuron
+RIML,AVJR,1,Interneuron,Modulatory neuron
+RIML,RIBL,7,Interneuron,Interneuron
+RIML,RIBR,1,Interneuron,Interneuron
+RIML,RMDL,5,Interneuron,Motor neuron
+RIML,RMDR,7,Interneuron,Motor neuron
+RIML,RMFL,3,Interneuron,Motor neuron
+RIML,SIADL,1,Interneuron,Motor neuron
+RIML,SIBDR,1,Interneuron,Motor neuron
+RIML,SMDDL,10,Interneuron,Motor neuron
+RIML,SMDDR,2,Interneuron,Motor neuron
+RIML,SMDVL,5,Interneuron,Motor neuron
+RIML,SMDVR,3,Interneuron,Motor neuron
+RIML,AVKL,1,Interneuron,Modulatory neuron
+RIML,AVKR,1,Interneuron,Modulatory neuron
+RIML,RIS,2,Interneuron,Modulatory neuron
+RIMR,SAADL,5,Interneuron,Sensory neuron
+RIMR,SAADR,2,Interneuron,Sensory neuron
+RIMR,SAAVL,5,Interneuron,Sensory neuron
+RIMR,SAAVR,6,Interneuron,Sensory neuron
+RIMR,AIBL,10,Interneuron,Interneuron
+RIMR,AVAL,2,Interneuron,Interneuron
+RIMR,AVAR,1,Interneuron,Interneuron
+RIMR,AVBL,5,Interneuron,Interneuron
+RIMR,AVBR,1,Interneuron,Interneuron
+RIMR,RIBL,3,Interneuron,Interneuron
+RIMR,RIBR,4,Interneuron,Interneuron
+RIMR,RIGR,1,Interneuron,Interneuron
+RIMR,RIML,1,Interneuron,Interneuron
+RIMR,RMDL,6,Interneuron,Motor neuron
+RIMR,RMDR,3,Interneuron,Motor neuron
+RIMR,RMFL,1,Interneuron,Motor neuron
+RIMR,RMFR,4,Interneuron,Motor neuron
+RIMR,SMDDL,5,Interneuron,Motor neuron
+RIMR,SMDDR,6,Interneuron,Motor neuron
+RIMR,SMDVL,2,Interneuron,Motor neuron
+RIMR,SMDVR,6,Interneuron,Motor neuron
+RIMR,AVKL,1,Interneuron,Modulatory neuron
+RIMR,RIS,1,Interneuron,Modulatory neuron
+RIR,ADFL,1,Interneuron,Sensory neuron
+RIR,ADFR,2,Interneuron,Sensory neuron
+RIR,AQR,5,Interneuron,Sensory neuron
+RIR,AUAR,2,Interneuron,Sensory neuron
+RIR,DVA,5,Interneuron,Modulatory neuron
+RIR,URXL,6,Interneuron,Sensory neuron
+RIR,URXR,8,Interneuron,Sensory neuron
+RIR,AIYL,2,Interneuron,Interneuron
+RIR,AIZL,10,Interneuron,Interneuron
+RIR,AIZR,11,Interneuron,Interneuron
+RIR,AVEL,1,Interneuron,Interneuron
+RIR,AVER,1,Interneuron,Interneuron
+RIR,PVPL,2,Interneuron,Interneuron
+RIR,PVPR,1,Interneuron,Interneuron
+RIR,RIAL,7,Interneuron,Interneuron
+RIR,RIAR,9,Interneuron,Interneuron
+RIR,RIGL,2,Interneuron,Interneuron
+RIR,RIGR,1,Interneuron,Interneuron
+RIR,SMBVL,2,Interneuron,Motor neuron
+RIR,AVHL,1,Interneuron,Modulatory neuron
+IL1DL,OLLL,2,Motor neuron,Sensory neuron
+IL1DL,PVR,1,Motor neuron,Interneuron
+IL1DL,RIPL,3,Motor neuron,Interneuron
+IL1DL,IL1L,1,Motor neuron,Motor neuron
+IL1DL,RMDDR,1,Motor neuron,Motor neuron
+IL1DL,RMDVL,8,Motor neuron,Motor neuron
+IL1DL,RMEL,1,Motor neuron,Motor neuron
+IL1DL,URADL,2,Motor neuron,Motor neuron
+IL1DR,OLLR,3,Motor neuron,Sensory neuron
+IL1DR,RIPR,3,Motor neuron,Interneuron
+IL1DR,IL1R,3,Motor neuron,Motor neuron
+IL1DR,RMDVR,10,Motor neuron,Motor neuron
+IL1DR,RMER,2,Motor neuron,Motor neuron
+IL1L,AVER,1,Motor neuron,Interneuron
+IL1L,RMDDL,3,Motor neuron,Motor neuron
+IL1L,RMDDR,2,Motor neuron,Motor neuron
+IL1L,RMDL,3,Motor neuron,Motor neuron
+IL1L,RMDR,1,Motor neuron,Motor neuron
+IL1L,RMDVL,3,Motor neuron,Motor neuron
+IL1L,RMER,1,Motor neuron,Motor neuron
+IL1L,RMHR,2,Motor neuron,Motor neuron
+IL1R,AVEL,1,Motor neuron,Interneuron
+IL1R,IL1DR,1,Motor neuron,Motor neuron
+IL1R,IL1VR,1,Motor neuron,Motor neuron
+IL1R,RMDDL,1,Motor neuron,Motor neuron
+IL1R,RMDDR,5,Motor neuron,Motor neuron
+IL1R,RMDL,3,Motor neuron,Motor neuron
+IL1R,RMDR,3,Motor neuron,Motor neuron
+IL1R,RMDVL,3,Motor neuron,Motor neuron
+IL1R,RMDVR,3,Motor neuron,Motor neuron
+IL1R,RMEL,1,Motor neuron,Motor neuron
+IL1R,RMFL,1,Motor neuron,Motor neuron
+IL1R,RMHL,1,Motor neuron,Motor neuron
+IL1VL,PVR,1,Motor neuron,Interneuron
+IL1VL,RIPL,4,Motor neuron,Interneuron
+IL1VL,RMDDL,8,Motor neuron,Motor neuron
+IL1VL,RMDVR,1,Motor neuron,Motor neuron
+IL1VL,RMEL,3,Motor neuron,Motor neuron
+IL1VL,URAVL,1,Motor neuron,Motor neuron
+IL1VR,RIPR,2,Motor neuron,Interneuron
+IL1VR,RMDDR,3,Motor neuron,Motor neuron
+IL1VR,RMER,2,Motor neuron,Motor neuron
+RIVL,SAADR,4,Motor neuron,Sensory neuron
+RIVL,RIAL,5,Motor neuron,Interneuron
+RIVL,RIAR,3,Motor neuron,Interneuron
+RIVL,RMDDR,2,Motor neuron,Motor neuron
+RIVL,RMDL,1,Motor neuron,Motor neuron
+RIVL,RMDVL,3,Motor neuron,Motor neuron
+RIVL,SIAVR,6,Motor neuron,Motor neuron
+RIVL,SMDDR,2,Motor neuron,Motor neuron
+RIVL,SMDVL,2,Motor neuron,Motor neuron
+RIVR,SAADL,2,Motor neuron,Sensory neuron
+RIVR,RIAL,1,Motor neuron,Interneuron
+RIVR,RIAR,3,Motor neuron,Interneuron
+RIVR,RMDDL,2,Motor neuron,Motor neuron
+RIVR,RMDR,2,Motor neuron,Motor neuron
+RIVR,RMDVR,7,Motor neuron,Motor neuron
+RIVR,SIAVL,10,Motor neuron,Motor neuron
+RIVR,SMDDL,1,Motor neuron,Motor neuron
+RIVR,SMDVR,1,Motor neuron,Motor neuron
+RIVR,RMGL,1,Motor neuron,Modulatory neuron
+RMDDL,URYDR,1,Motor neuron,Sensory neuron
+RMDDL,RMDVR,11,Motor neuron,Motor neuron
+RMDDL,RMEV,3,Motor neuron,Motor neuron
+RMDDL,URADR,1,Motor neuron,Motor neuron
+RMDDR,URYDL,1,Motor neuron,Sensory neuron
+RMDDR,RMDDL,1,Motor neuron,Motor neuron
+RMDDR,RMDVL,12,Motor neuron,Motor neuron
+RMDDR,RMED,2,Motor neuron,Motor neuron
+RMDDR,RMEV,1,Motor neuron,Motor neuron
+RMDDR,SMBDR,1,Motor neuron,Motor neuron
+RMDL,AVEL,1,Motor neuron,Interneuron
+RMDL,RIAL,15,Motor neuron,Interneuron
+RMDL,RIAR,8,Motor neuron,Interneuron
+RMDL,RIML,1,Motor neuron,Interneuron
+RMDL,IL1R,3,Motor neuron,Motor neuron
+RMDL,RIVL,1,Motor neuron,Motor neuron
+RMDL,RMDDR,3,Motor neuron,Motor neuron
+RMDL,RMDR,12,Motor neuron,Motor neuron
+RMDL,RMDVL,1,Motor neuron,Motor neuron
+RMDL,RMEL,2,Motor neuron,Motor neuron
+RMDL,RMFL,5,Motor neuron,Motor neuron
+RMDL,RMHL,1,Motor neuron,Motor neuron
+RMDL,SIBDR,1,Motor neuron,Motor neuron
+RMDL,SMBVR,1,Motor neuron,Motor neuron
+RMDL,SMDVL,2,Motor neuron,Motor neuron
+RMDL,ADER,1,Motor neuron,Modulatory neuron
+RMDR,RIAL,7,Motor neuron,Interneuron
+RMDR,RIAR,14,Motor neuron,Interneuron
+RMDR,IL1L,1,Motor neuron,Motor neuron
+RMDR,RMDDL,2,Motor neuron,Motor neuron
+RMDR,RMDDR,1,Motor neuron,Motor neuron
+RMDR,RMDL,7,Motor neuron,Motor neuron
+RMDR,RMDVL,1,Motor neuron,Motor neuron
+RMDR,RMDVR,1,Motor neuron,Motor neuron
+RMDR,RMER,2,Motor neuron,Motor neuron
+RMDR,RMHR,3,Motor neuron,Motor neuron
+RMDR,SMDDR,1,Motor neuron,Motor neuron
+RMDVL,IL1VR,1,Motor neuron,Motor neuron
+RMDVL,RMDDR,11,Motor neuron,Motor neuron
+RMDVL,RMED,1,Motor neuron,Motor neuron
+RMDVL,SIBDR,1,Motor neuron,Motor neuron
+RMDVL,SMBVR,1,Motor neuron,Motor neuron
+RMDVR,RMDDL,10,Motor neuron,Motor neuron
+RMDVR,RMDVL,4,Motor neuron,Motor neuron
+RMDVR,RMED,3,Motor neuron,Motor neuron
+RMDVR,SMBVL,2,Motor neuron,Motor neuron
+RMED,RMDVL,1,Motor neuron,Motor neuron
+RMED,SMDDL,1,Motor neuron,Motor neuron
+RMED,SMDDR,2,Motor neuron,Motor neuron
+RMEL,IL1R,1,Motor neuron,Motor neuron
+RMEV,RMDDR,1,Motor neuron,Motor neuron
+RMEV,SMDVL,2,Motor neuron,Motor neuron
+RMEV,SMDVR,1,Motor neuron,Motor neuron
+RMFL,AWCL,1,Motor neuron,Sensory neuron
+RMFL,BAGL,2,Motor neuron,Sensory neuron
+RMFL,PVT,1,Motor neuron,Interneuron
+RMFL,RIML,1,Motor neuron,Interneuron
+RMFL,RMDL,4,Motor neuron,Motor neuron
+RMFL,RMDR,9,Motor neuron,Motor neuron
+RMFL,RMDVL,1,Motor neuron,Motor neuron
+RMFL,RMEL,1,Motor neuron,Motor neuron
+RMFL,RMHL,5,Motor neuron,Motor neuron
+RMFL,AVKL,7,Motor neuron,Modulatory neuron
+RMFL,AVKR,10,Motor neuron,Modulatory neuron
+RMFL,CEPVR,1,Motor neuron,Modulatory neuron
+RMFR,BAGR,1,Motor neuron,Sensory neuron
+RMFR,AIBR,1,Motor neuron,Interneuron
+RMFR,AVEL,1,Motor neuron,Interneuron
+RMFR,RIGL,3,Motor neuron,Interneuron
+RMFR,IL1L,1,Motor neuron,Motor neuron
+RMFR,RIVR,1,Motor neuron,Motor neuron
+RMFR,RMDL,9,Motor neuron,Motor neuron
+RMFR,RMDR,2,Motor neuron,Motor neuron
+RMFR,RMDVL,1,Motor neuron,Motor neuron
+RMFR,RMHR,6,Motor neuron,Motor neuron
+RMFR,AVKL,9,Motor neuron,Modulatory neuron
+RMFR,AVKR,4,Motor neuron,Modulatory neuron
+RMFR,CEPDL,1,Motor neuron,Modulatory neuron
+RMFR,DVC,1,Motor neuron,Interneuron
+RMFR,RIS,2,Motor neuron,Modulatory neuron
+RMFR,RMGL,1,Motor neuron,Modulatory neuron
+RMHL,RIGR,2,Motor neuron,Interneuron
+RMHL,RMDL,2,Motor neuron,Motor neuron
+RMHL,RMDR,4,Motor neuron,Motor neuron
+RMHL,RMFL,3,Motor neuron,Motor neuron
+RMHL,AVKL,2,Motor neuron,Modulatory neuron
+RMHL,RMGR,1,Motor neuron,Modulatory neuron
+RMHR,RIGL,1,Motor neuron,Interneuron
+RMHR,RMDL,4,Motor neuron,Motor neuron
+RMHR,RMDR,2,Motor neuron,Motor neuron
+RMHR,RMFR,7,Motor neuron,Motor neuron
+RMHR,AVKR,1,Motor neuron,Modulatory neuron
+SMBDL,ALNR,2,Motor neuron,Sensory neuron
+SMBDL,SAAVL,2,Motor neuron,Sensory neuron
+SMBDL,SAAVR,9,Motor neuron,Sensory neuron
+SMBDL,ADAL,3,Motor neuron,Interneuron
+SMBDL,RMDDL,1,Motor neuron,Motor neuron
+SMBDL,RMED,4,Motor neuron,Motor neuron
+SMBDR,ALNL,3,Motor neuron,Sensory neuron
+SMBDR,SAAVL,7,Motor neuron,Sensory neuron
+SMBDR,SAAVR,1,Motor neuron,Sensory neuron
+SMBDR,ADAL,1,Motor neuron,Interneuron
+SMBDR,AVAL,1,Motor neuron,Interneuron
+SMBDR,RMDDR,1,Motor neuron,Motor neuron
+SMBDR,RMED,5,Motor neuron,Motor neuron
+SMBDR,SIADR,1,Motor neuron,Motor neuron
+SMBDR,SIBDL,2,Motor neuron,Motor neuron
+SMBVL,PLNL,2,Motor neuron,Sensory neuron
+SMBVL,SAADL,6,Motor neuron,Sensory neuron
+SMBVL,RMDVR,2,Motor neuron,Motor neuron
+SMBVL,RMEV,3,Motor neuron,Motor neuron
+SMBVR,PLNR,3,Motor neuron,Sensory neuron
+SMBVR,SAADR,6,Motor neuron,Sensory neuron
+SMBVR,RMDVL,1,Motor neuron,Motor neuron
+SMBVR,RMEV,6,Motor neuron,Motor neuron
+SMBVR,CEPVR,2,Motor neuron,Modulatory neuron
+SMDDL,RIAL,8,Motor neuron,Interneuron
+SMDDL,RIAR,7,Motor neuron,Interneuron
+SMDDL,RIML,1,Motor neuron,Interneuron
+SMDDL,RMDR,2,Motor neuron,Motor neuron
+SMDDL,SMDVR,7,Motor neuron,Motor neuron
+SMDDL,CEPDR,1,Motor neuron,Modulatory neuron
+SMDDR,RIAL,8,Motor neuron,Interneuron
+SMDDR,RIAR,5,Motor neuron,Interneuron
+SMDDR,RIMR,1,Motor neuron,Interneuron
+SMDDR,RMDL,1,Motor neuron,Motor neuron
+SMDDR,RMDR,2,Motor neuron,Motor neuron
+SMDDR,SMDVL,7,Motor neuron,Motor neuron
+SMDDR,RIS,1,Motor neuron,Modulatory neuron
+SMDVL,RIAL,7,Motor neuron,Interneuron
+SMDVL,RIAR,11,Motor neuron,Interneuron
+SMDVL,SMDDR,7,Motor neuron,Motor neuron
+SMDVR,OLLL,1,Motor neuron,Sensory neuron
+SMDVR,RIAL,7,Motor neuron,Interneuron
+SMDVR,RIAR,6,Motor neuron,Interneuron
+SMDVR,RIMR,1,Motor neuron,Interneuron
+SMDVR,SMDDL,7,Motor neuron,Motor neuron
+SMDVR,CEPVL,1,Motor neuron,Modulatory neuron
+SMDVR,RIS,1,Motor neuron,Modulatory neuron
+URADL,RIPL,5,Motor neuron,Interneuron
+URADL,IL1DL,4,Motor neuron,Motor neuron
+URADL,RMDDR,3,Motor neuron,Motor neuron
+URADL,RMED,2,Motor neuron,Motor neuron
+URADL,RMEL,2,Motor neuron,Motor neuron
+URADR,RIPR,4,Motor neuron,Interneuron
+URADR,IL1DR,3,Motor neuron,Motor neuron
+URADR,IL1R,1,Motor neuron,Motor neuron
+URADR,RMDDL,1,Motor neuron,Motor neuron
+URADR,RMED,2,Motor neuron,Motor neuron
+URADR,RMER,2,Motor neuron,Motor neuron
+URAVL,RIPL,3,Motor neuron,Interneuron
+URAVL,IL1VL,5,Motor neuron,Motor neuron
+URAVL,RMEL,4,Motor neuron,Motor neuron
+URAVL,RMEV,3,Motor neuron,Motor neuron
+URAVR,RIPR,2,Motor neuron,Interneuron
+URAVR,IL1R,1,Motor neuron,Motor neuron
+URAVR,IL1VR,1,Motor neuron,Motor neuron
+URAVR,RMER,3,Motor neuron,Motor neuron
+URAVR,RMEV,2,Motor neuron,Motor neuron
+ADEL,ALNL,1,Modulatory neuron,Sensory neuron
+ADEL,IL2L,1,Modulatory neuron,Sensory neuron
+ADEL,SAADR,2,Modulatory neuron,Sensory neuron
+ADEL,SDQL,1,Modulatory neuron,Sensory neuron
+ADEL,ADAL,1,Modulatory neuron,Interneuron
+ADEL,AVAL,1,Modulatory neuron,Interneuron
+ADEL,AVAR,3,Modulatory neuron,Interneuron
+ADEL,PVT,1,Modulatory neuron,Interneuron
+ADEL,RIFL,1,Modulatory neuron,Interneuron
+ADEL,RIGL,6,Modulatory neuron,Interneuron
+ADEL,RIGR,12,Modulatory neuron,Interneuron
+ADEL,IL1L,1,Modulatory neuron,Motor neuron
+ADEL,RIVL,1,Modulatory neuron,Motor neuron
+ADEL,RIVR,2,Modulatory neuron,Motor neuron
+ADEL,RMDDR,2,Modulatory neuron,Motor neuron
+ADEL,RMDL,3,Modulatory neuron,Motor neuron
+ADEL,RMFR,4,Modulatory neuron,Motor neuron
+ADEL,RMHR,2,Modulatory neuron,Motor neuron
+ADEL,SMBDR,2,Modulatory neuron,Motor neuron
+ADEL,SMDDR,1,Modulatory neuron,Motor neuron
+ADEL,SMDVL,1,Modulatory neuron,Motor neuron
+ADEL,ADER,4,Modulatory neuron,Modulatory neuron
+ADEL,AVKR,1,Modulatory neuron,Modulatory neuron
+ADEL,CEPDL,2,Modulatory neuron,Modulatory neuron
+ADEL,CEPVL,1,Modulatory neuron,Modulatory neuron
+ADER,ALMR,1,Modulatory neuron,Sensory neuron
+ADER,ALNR,1,Modulatory neuron,Sensory neuron
+ADER,FLPL,1,Modulatory neuron,Sensory neuron
+ADER,IL2R,3,Modulatory neuron,Sensory neuron
+ADER,OLLR,2,Modulatory neuron,Sensory neuron
+ADER,SAADL,1,Modulatory neuron,Sensory neuron
+ADER,SAAVL,1,Modulatory neuron,Sensory neuron
+ADER,URBR,1,Modulatory neuron,Sensory neuron
+ADER,ADAR,1,Modulatory neuron,Interneuron
+ADER,AINR,2,Modulatory neuron,Interneuron
+ADER,AVAL,4,Modulatory neuron,Interneuron
+ADER,AVAR,1,Modulatory neuron,Interneuron
+ADER,AVDR,2,Modulatory neuron,Interneuron
+ADER,AVER,1,Modulatory neuron,Interneuron
+ADER,PVR,2,Modulatory neuron,Interneuron
+ADER,PVT,1,Modulatory neuron,Interneuron
+ADER,RIGL,10,Modulatory neuron,Interneuron
+ADER,RIGR,6,Modulatory neuron,Interneuron
+ADER,IL1R,4,Modulatory neuron,Motor neuron
+ADER,RIVR,3,Modulatory neuron,Motor neuron
+ADER,RMDL,1,Modulatory neuron,Motor neuron
+ADER,RMDR,2,Modulatory neuron,Motor neuron
+ADER,RMFL,1,Modulatory neuron,Motor neuron
+ADER,SIADL,1,Modulatory neuron,Motor neuron
+ADER,SMBVR,1,Modulatory neuron,Motor neuron
+ADER,ADEL,3,Modulatory neuron,Modulatory neuron
+ADER,AVKR,3,Modulatory neuron,Modulatory neuron
+ADER,CEPDR,1,Modulatory neuron,Modulatory neuron
+ADER,CEPVR,1,Modulatory neuron,Modulatory neuron
+AIML,ALML,1,Modulatory neuron,Sensory neuron
+AIML,ASGL,6,Modulatory neuron,Sensory neuron
+AIML,ASJL,4,Modulatory neuron,Sensory neuron
+AIML,ASKL,5,Modulatory neuron,Sensory neuron
+AIML,AWBL,1,Modulatory neuron,Sensory neuron
+AIML,AIAL,9,Modulatory neuron,Interneuron
+AIML,AIZL,2,Modulatory neuron,Interneuron
+AIML,AVBL,3,Modulatory neuron,Interneuron
+AIML,AVJL,1,Modulatory neuron,Modulatory neuron
+AIML,RIFL,1,Modulatory neuron,Interneuron
+AIML,SMBVL,1,Modulatory neuron,Motor neuron
+AIML,AVFL,3,Modulatory neuron,Modulatory neuron
+AIML,AVFR,2,Modulatory neuron,Modulatory neuron
+AIML,CEPVL,1,Modulatory neuron,Modulatory neuron
+AIML,RMGL,1,Modulatory neuron,Modulatory neuron
+AIMR,ALMR,1,Modulatory neuron,Sensory neuron
+AIMR,ASGR,8,Modulatory neuron,Sensory neuron
+AIMR,ASHR,2,Modulatory neuron,Sensory neuron
+AIMR,ASKR,3,Modulatory neuron,Sensory neuron
+AIMR,AWBR,1,Modulatory neuron,Sensory neuron
+AIMR,ADAR,2,Modulatory neuron,Interneuron
+AIMR,AIAR,10,Modulatory neuron,Interneuron
+AIMR,AIZR,1,Modulatory neuron,Interneuron
+AIMR,AVAR,1,Modulatory neuron,Interneuron
+AIMR,AVDR,3,Modulatory neuron,Interneuron
+AIMR,AVJR,1,Modulatory neuron,Modulatory neuron
+AIMR,RIFR,3,Modulatory neuron,Interneuron
+AIMR,SIADL,1,Modulatory neuron,Motor neuron
+AIMR,SIBDL,1,Modulatory neuron,Motor neuron
+AIMR,SMBDL,1,Modulatory neuron,Motor neuron
+AIMR,AIML,1,Modulatory neuron,Modulatory neuron
+AIMR,AVFL,1,Modulatory neuron,Modulatory neuron
+AIMR,AVFR,1,Modulatory neuron,Modulatory neuron
+ALA,ADLL,1,Modulatory neuron,Sensory neuron
+ALA,AVAR,1,Modulatory neuron,Interneuron
+ALA,AVEL,2,Modulatory neuron,Interneuron
+ALA,AVER,2,Modulatory neuron,Interneuron
+AVFL,AIAL,1,Modulatory neuron,Interneuron
+AVFL,AVAL,1,Modulatory neuron,Interneuron
+AVFL,AVBL,2,Modulatory neuron,Interneuron
+AVFL,AVBR,2,Modulatory neuron,Interneuron
+AVFL,AVJL,1,Modulatory neuron,Modulatory neuron
+AVFL,BDUR,2,Modulatory neuron,Interneuron
+AVFL,RIFL,3,Modulatory neuron,Interneuron
+AVFL,AVFR,1,Modulatory neuron,Modulatory neuron
+AVFL,AVHR,1,Modulatory neuron,Modulatory neuron
+AVFL,HSNL,2,Modulatory neuron,Modulatory neuron
+AVFL,PVNL,1,Modulatory neuron,Modulatory neuron
+AVFL,PVQL,1,Modulatory neuron,Modulatory neuron
+AVFL,PVQR,1,Modulatory neuron,Modulatory neuron
+AVFR,ASJL,1,Modulatory neuron,Sensory neuron
+AVFR,ASJR,1,Modulatory neuron,Sensory neuron
+AVFR,ASKR,1,Modulatory neuron,Sensory neuron
+AVFR,DVA,1,Modulatory neuron,Modulatory neuron
+AVFR,AVBR,1,Modulatory neuron,Interneuron
+AVFR,BDUR,2,Modulatory neuron,Interneuron
+AVFR,RIFR,2,Modulatory neuron,Interneuron
+AVFR,SMBVR,1,Modulatory neuron,Motor neuron
+AVFR,URADR,1,Modulatory neuron,Motor neuron
+AVFR,AIMR,1,Modulatory neuron,Modulatory neuron
+AVFR,AVFL,6,Modulatory neuron,Modulatory neuron
+AVFR,AVKR,1,Modulatory neuron,Modulatory neuron
+AVFR,HSNL,6,Modulatory neuron,Modulatory neuron
+AVFR,HSNR,1,Modulatory neuron,Modulatory neuron
+AVFR,PVNR,1,Modulatory neuron,Modulatory neuron
+AVFR,PVQL,1,Modulatory neuron,Modulatory neuron
+AVFR,PVQR,1,Modulatory neuron,Modulatory neuron
+AVFR,RID,1,Modulatory neuron,Modulatory neuron
+AVHL,ADFR,3,Modulatory neuron,Sensory neuron
+AVHL,ADLR,1,Modulatory neuron,Sensory neuron
+AVHL,ASHR,1,Modulatory neuron,Sensory neuron
+AVHL,AWBR,4,Modulatory neuron,Sensory neuron
+AVHL,AVAR,1,Modulatory neuron,Interneuron
+AVHL,AVBL,1,Modulatory neuron,Interneuron
+AVHL,PVPR,2,Modulatory neuron,Interneuron
+AVHL,RIR,7,Modulatory neuron,Interneuron
+AVHL,SMBDR,1,Modulatory neuron,Motor neuron
+AVHL,SMBVR,2,Modulatory neuron,Motor neuron
+AVHL,SMDVL,1,Modulatory neuron,Motor neuron
+AVHR,ADFL,3,Modulatory neuron,Sensory neuron
+AVHR,AWBL,2,Modulatory neuron,Sensory neuron
+AVHR,DVA,1,Modulatory neuron,Modulatory neuron
+AVHR,URXL,1,Modulatory neuron,Sensory neuron
+AVHR,AINR,2,Modulatory neuron,Interneuron
+AVHR,AVBL,2,Modulatory neuron,Interneuron
+AVHR,AVBR,2,Modulatory neuron,Interneuron
+AVHR,AVJL,1,Modulatory neuron,Modulatory neuron
+AVHR,AVJR,3,Modulatory neuron,Modulatory neuron
+AVHR,PVCL,1,Modulatory neuron,Interneuron
+AVHR,PVPL,3,Modulatory neuron,Interneuron
+AVHR,RIGL,1,Modulatory neuron,Interneuron
+AVHR,RIML,1,Modulatory neuron,Interneuron
+AVHR,RIR,6,Modulatory neuron,Interneuron
+AVHR,RMFL,1,Modulatory neuron,Motor neuron
+AVHR,SMBDL,2,Modulatory neuron,Motor neuron
+AVHR,SMBVL,5,Modulatory neuron,Motor neuron
+AVKL,SAADR,2,Modulatory neuron,Sensory neuron
+AVKL,SAAVR,1,Modulatory neuron,Sensory neuron
+AVKL,AVEL,2,Modulatory neuron,Interneuron
+AVKL,AVER,1,Modulatory neuron,Interneuron
+AVKL,RIML,4,Modulatory neuron,Interneuron
+AVKL,RIMR,3,Modulatory neuron,Interneuron
+AVKL,RIVL,1,Modulatory neuron,Motor neuron
+AVKL,RMDL,5,Modulatory neuron,Motor neuron
+AVKL,RMFL,1,Modulatory neuron,Motor neuron
+AVKL,SIADR,1,Modulatory neuron,Motor neuron
+AVKL,SIBDR,1,Modulatory neuron,Motor neuron
+AVKL,SMDDL,2,Modulatory neuron,Motor neuron
+AVKL,SMDDR,1,Modulatory neuron,Motor neuron
+AVKL,SMDVL,1,Modulatory neuron,Motor neuron
+AVKL,AVKR,2,Modulatory neuron,Modulatory neuron
+AVKL,AVL,1,Modulatory neuron,Modulatory neuron
+AVKL,RIS,5,Modulatory neuron,Modulatory neuron
+AVKR,SAADL,2,Modulatory neuron,Sensory neuron
+AVKR,SAAVL,1,Modulatory neuron,Sensory neuron
+AVKR,AVEL,2,Modulatory neuron,Interneuron
+AVKR,AVER,2,Modulatory neuron,Interneuron
+AVKR,RIML,3,Modulatory neuron,Interneuron
+AVKR,RIMR,4,Modulatory neuron,Interneuron
+AVKR,RIVR,2,Modulatory neuron,Motor neuron
+AVKR,RMDL,1,Modulatory neuron,Motor neuron
+AVKR,RMDR,6,Modulatory neuron,Motor neuron
+AVKR,RMFL,1,Modulatory neuron,Motor neuron
+AVKR,SIADL,1,Modulatory neuron,Motor neuron
+AVKR,SMBDL,1,Modulatory neuron,Motor neuron
+AVKR,SMDVR,1,Modulatory neuron,Motor neuron
+AVKR,AVKL,2,Modulatory neuron,Modulatory neuron
+AVKR,RIS,6,Modulatory neuron,Modulatory neuron
+AVL,URYVR,1,Modulatory neuron,Sensory neuron
+AVL,PVT,1,Modulatory neuron,Interneuron
+AVL,RIBR,1,Modulatory neuron,Interneuron
+AVL,RMER,1,Modulatory neuron,Motor neuron
+AVL,RIS,1,Modulatory neuron,Modulatory neuron
+CEPDL,OLLL,10,Modulatory neuron,Sensory neuron
+CEPDL,OLQDL,4,Modulatory neuron,Sensory neuron
+CEPDL,URBL,3,Modulatory neuron,Sensory neuron
+CEPDL,URXL,3,Modulatory neuron,Sensory neuron
+CEPDL,URYDL,1,Modulatory neuron,Sensory neuron
+CEPDL,AVER,7,Modulatory neuron,Interneuron
+CEPDL,PVR,1,Modulatory neuron,Interneuron
+CEPDL,RIBL,2,Modulatory neuron,Interneuron
+CEPDL,IL1DL,4,Modulatory neuron,Motor neuron
+CEPDL,IL1L,1,Modulatory neuron,Motor neuron
+CEPDL,RMDVL,8,Modulatory neuron,Motor neuron
+CEPDL,RMHL,2,Modulatory neuron,Motor neuron
+CEPDL,RMHR,3,Modulatory neuron,Motor neuron
+CEPDL,RICL,3,Modulatory neuron,Modulatory neuron
+CEPDL,RICR,3,Modulatory neuron,Modulatory neuron
+CEPDL,RIS,2,Modulatory neuron,Modulatory neuron
+CEPDR,ALMR,1,Modulatory neuron,Sensory neuron
+CEPDR,OLLR,15,Modulatory neuron,Sensory neuron
+CEPDR,OLQDR,7,Modulatory neuron,Sensory neuron
+CEPDR,URBR,2,Modulatory neuron,Sensory neuron
+CEPDR,URXR,1,Modulatory neuron,Sensory neuron
+CEPDR,URYDR,2,Modulatory neuron,Sensory neuron
+CEPDR,AVDR,1,Modulatory neuron,Interneuron
+CEPDR,AVEL,10,Modulatory neuron,Interneuron
+CEPDR,AVJR,1,Modulatory neuron,Modulatory neuron
+CEPDR,RIPR,1,Modulatory neuron,Interneuron
+CEPDR,IL1DR,8,Modulatory neuron,Motor neuron
+CEPDR,RMDDL,1,Modulatory neuron,Motor neuron
+CEPDR,RMDDR,1,Modulatory neuron,Motor neuron
+CEPDR,RMDVR,8,Modulatory neuron,Motor neuron
+CEPDR,RMHL,2,Modulatory neuron,Motor neuron
+CEPDR,RMHR,1,Modulatory neuron,Motor neuron
+CEPDR,SIADL,2,Modulatory neuron,Motor neuron
+CEPDR,SMBDL,1,Modulatory neuron,Motor neuron
+CEPDR,SMDDL,1,Modulatory neuron,Motor neuron
+CEPDR,URADR,2,Modulatory neuron,Motor neuron
+CEPDR,RICL,5,Modulatory neuron,Modulatory neuron
+CEPDR,RICR,5,Modulatory neuron,Modulatory neuron
+CEPDR,RMGR,1,Modulatory neuron,Modulatory neuron
+CEPVL,OLLL,11,Modulatory neuron,Sensory neuron
+CEPVL,OLQVL,5,Modulatory neuron,Sensory neuron
+CEPVL,PLNL,1,Modulatory neuron,Sensory neuron
+CEPVL,URBL,2,Modulatory neuron,Sensory neuron
+CEPVL,URYVL,2,Modulatory neuron,Sensory neuron
+CEPVL,AVER,6,Modulatory neuron,Interneuron
+CEPVL,PVR,1,Modulatory neuron,Interneuron
+CEPVL,RIAL,1,Modulatory neuron,Interneuron
+CEPVL,RIBL,2,Modulatory neuron,Interneuron
+CEPVL,RIPL,1,Modulatory neuron,Interneuron
+CEPVL,IL1VL,3,Modulatory neuron,Motor neuron
+CEPVL,RMDDL,9,Modulatory neuron,Motor neuron
+CEPVL,RMHL,1,Modulatory neuron,Motor neuron
+CEPVL,RMHR,2,Modulatory neuron,Motor neuron
+CEPVL,SIAVL,2,Modulatory neuron,Motor neuron
+CEPVL,SMBVL,1,Modulatory neuron,Motor neuron
+CEPVL,SMDVR,2,Modulatory neuron,Motor neuron
+CEPVL,URAVL,2,Modulatory neuron,Motor neuron
+CEPVL,RICL,4,Modulatory neuron,Modulatory neuron
+CEPVL,RICR,3,Modulatory neuron,Modulatory neuron
+CEPVR,OLLR,9,Modulatory neuron,Sensory neuron
+CEPVR,OLQVR,7,Modulatory neuron,Sensory neuron
+CEPVR,URBR,5,Modulatory neuron,Sensory neuron
+CEPVR,URXR,2,Modulatory neuron,Sensory neuron
+CEPVR,URYVR,1,Modulatory neuron,Sensory neuron
+CEPVR,AVEL,6,Modulatory neuron,Interneuron
+CEPVR,AVER,1,Modulatory neuron,Interneuron
+CEPVR,PVR,1,Modulatory neuron,Interneuron
+CEPVR,RIPR,2,Modulatory neuron,Interneuron
+CEPVR,IL1R,1,Modulatory neuron,Motor neuron
+CEPVR,IL1VR,5,Modulatory neuron,Motor neuron
+CEPVR,RMDDR,6,Modulatory neuron,Motor neuron
+CEPVR,RMDR,1,Modulatory neuron,Motor neuron
+CEPVR,RMHL,3,Modulatory neuron,Motor neuron
+CEPVR,RMHR,1,Modulatory neuron,Motor neuron
+CEPVR,SIAVR,1,Modulatory neuron,Motor neuron
+CEPVR,SMBVR,1,Modulatory neuron,Motor neuron
+CEPVR,SMDVL,2,Modulatory neuron,Motor neuron
+CEPVR,URAVR,3,Modulatory neuron,Motor neuron
+CEPVR,RICL,3,Modulatory neuron,Modulatory neuron
+CEPVR,RICR,6,Modulatory neuron,Modulatory neuron
+DVC,AQR,1,Interneuron,Sensory neuron
+DVC,FLPR,1,Interneuron,Sensory neuron
+DVC,URYVL,3,Interneuron,Sensory neuron
+DVC,AIBL,5,Interneuron,Interneuron
+DVC,AIBR,7,Interneuron,Interneuron
+DVC,AIZL,1,Interneuron,Interneuron
+DVC,AVAL,6,Interneuron,Interneuron
+DVC,AVAR,9,Interneuron,Interneuron
+DVC,AVEL,1,Interneuron,Interneuron
+DVC,AVER,2,Interneuron,Interneuron
+DVC,RIBL,5,Interneuron,Interneuron
+DVC,RIBR,9,Interneuron,Interneuron
+DVC,RIGL,10,Interneuron,Interneuron
+DVC,RIGR,13,Interneuron,Interneuron
+DVC,RIVR,1,Interneuron,Motor neuron
+DVC,RMFL,6,Interneuron,Motor neuron
+DVC,RMFR,4,Interneuron,Motor neuron
+DVC,AVKL,2,Interneuron,Modulatory neuron
+HSNL,ADLL,1,Modulatory neuron,Sensory neuron
+HSNL,ASHL,2,Modulatory neuron,Sensory neuron
+HSNL,ASKR,1,Modulatory neuron,Sensory neuron
+HSNL,AWBL,1,Modulatory neuron,Sensory neuron
+HSNL,AWBR,1,Modulatory neuron,Sensory neuron
+HSNL,AIAL,2,Modulatory neuron,Interneuron
+HSNL,AIAR,2,Modulatory neuron,Interneuron
+HSNL,BDUL,3,Modulatory neuron,Interneuron
+HSNL,RIFL,2,Modulatory neuron,Interneuron
+HSNL,RIFR,1,Modulatory neuron,Interneuron
+HSNL,AVFR,2,Modulatory neuron,Modulatory neuron
+HSNL,AVHR,1,Modulatory neuron,Modulatory neuron
+HSNL,HSNR,1,Modulatory neuron,Modulatory neuron
+HSNL,PVNL,2,Modulatory neuron,Modulatory neuron
+HSNL,PVNR,1,Modulatory neuron,Modulatory neuron
+HSNL,PVQL,1,Modulatory neuron,Modulatory neuron
+HSNL,RMGL,1,Modulatory neuron,Modulatory neuron
+HSNR,ASHL,1,Modulatory neuron,Sensory neuron
+HSNR,ASHR,1,Modulatory neuron,Sensory neuron
+HSNR,ASKR,1,Modulatory neuron,Sensory neuron
+HSNR,AVM,1,Modulatory neuron,Sensory neuron
+HSNR,AWAL,1,Modulatory neuron,Sensory neuron
+HSNR,AWBL,2,Modulatory neuron,Sensory neuron
+HSNR,AIAR,2,Modulatory neuron,Interneuron
+HSNR,AVJL,1,Modulatory neuron,Modulatory neuron
+HSNR,BDUR,3,Modulatory neuron,Interneuron
+HSNR,RIFR,2,Modulatory neuron,Interneuron
+HSNR,PVQR,1,Modulatory neuron,Modulatory neuron
+PVNL,AVJL,2,Modulatory neuron,Modulatory neuron
+PVNL,AVJR,2,Modulatory neuron,Modulatory neuron
+PVNL,BDUL,3,Modulatory neuron,Interneuron
+PVNL,BDUR,4,Modulatory neuron,Interneuron
+PVNL,RIFL,1,Modulatory neuron,Interneuron
+PVNL,PVNR,1,Modulatory neuron,Modulatory neuron
+PVNR,ALMR,2,Modulatory neuron,Sensory neuron
+PVNR,AVM,1,Modulatory neuron,Sensory neuron
+PVNR,AVER,1,Modulatory neuron,Interneuron
+PVNR,AVJL,2,Modulatory neuron,Modulatory neuron
+PVNR,BDUL,2,Modulatory neuron,Interneuron
+PVNR,BDUR,5,Modulatory neuron,Interneuron
+PVNR,RIFR,1,Modulatory neuron,Interneuron
+PVNR,CEPVR,1,Modulatory neuron,Modulatory neuron
+PVNR,PVNL,3,Modulatory neuron,Modulatory neuron
+PVNR,RMGL,1,Modulatory neuron,Modulatory neuron
+PVQL,ADLL,2,Modulatory neuron,Sensory neuron
+PVQL,ASJL,2,Modulatory neuron,Sensory neuron
+PVQL,ASKL,8,Modulatory neuron,Sensory neuron
+PVQL,AWAL,1,Modulatory neuron,Sensory neuron
+PVQL,AIAL,10,Modulatory neuron,Interneuron
+PVQL,ALA,1,Modulatory neuron,Modulatory neuron
+PVQL,HSNR,1,Modulatory neuron,Modulatory neuron
+PVQR,ADLR,1,Modulatory neuron,Sensory neuron
+PVQR,ASER,2,Modulatory neuron,Sensory neuron
+PVQR,ASKR,8,Modulatory neuron,Sensory neuron
+PVQR,AIAR,8,Modulatory neuron,Interneuron
+PVQR,AIMR,1,Modulatory neuron,Modulatory neuron
+PVQR,ALA,1,Modulatory neuron,Modulatory neuron
+PVQR,AVFL,2,Modulatory neuron,Modulatory neuron
+PVQR,AVFR,2,Modulatory neuron,Modulatory neuron
+PVQR,HSNR,4,Modulatory neuron,Modulatory neuron
+RICL,SAADL,1,Modulatory neuron,Sensory neuron
+RICL,URBL,1,Modulatory neuron,Sensory neuron
+RICL,URXR,1,Modulatory neuron,Sensory neuron
+RICL,ADAL,1,Modulatory neuron,Interneuron
+RICL,ADAR,1,Modulatory neuron,Interneuron
+RICL,AIBR,4,Modulatory neuron,Interneuron
+RICL,AVAL,13,Modulatory neuron,Interneuron
+RICL,AVAR,8,Modulatory neuron,Interneuron
+RICL,RIML,4,Modulatory neuron,Interneuron
+RICL,RIMR,1,Modulatory neuron,Interneuron
+RICL,RIVL,1,Modulatory neuron,Motor neuron
+RICL,RIVR,1,Modulatory neuron,Motor neuron
+RICL,RMHR,1,Modulatory neuron,Motor neuron
+RICL,SMBDR,3,Modulatory neuron,Motor neuron
+RICL,SMDDL,4,Modulatory neuron,Motor neuron
+RICL,SMDDR,8,Modulatory neuron,Motor neuron
+RICL,SMDVR,2,Modulatory neuron,Motor neuron
+RICL,CEPDL,1,Modulatory neuron,Modulatory neuron
+RICL,CEPVL,1,Modulatory neuron,Modulatory neuron
+RICL,RICR,2,Modulatory neuron,Modulatory neuron
+RICR,SAADR,1,Modulatory neuron,Sensory neuron
+RICR,URBL,1,Modulatory neuron,Sensory neuron
+RICR,ADAL,1,Modulatory neuron,Interneuron
+RICR,ADAR,2,Modulatory neuron,Interneuron
+RICR,AVAL,3,Modulatory neuron,Interneuron
+RICR,AVAR,9,Modulatory neuron,Interneuron
+RICR,RIMR,2,Modulatory neuron,Interneuron
+RICR,RIVL,1,Modulatory neuron,Motor neuron
+RICR,RIVR,1,Modulatory neuron,Motor neuron
+RICR,RMHL,1,Modulatory neuron,Motor neuron
+RICR,RMHR,1,Modulatory neuron,Motor neuron
+RICR,SMBDR,2,Modulatory neuron,Motor neuron
+RICR,SMDDL,6,Modulatory neuron,Motor neuron
+RICR,SMDVL,2,Modulatory neuron,Motor neuron
+RICR,SMDVR,1,Modulatory neuron,Motor neuron
+RICR,CEPVL,1,Modulatory neuron,Modulatory neuron
+RICR,CEPVR,1,Modulatory neuron,Modulatory neuron
+RICR,RICL,3,Modulatory neuron,Modulatory neuron
+RICR,RIS,1,Modulatory neuron,Modulatory neuron
+RIS,OLQDR,1,Modulatory neuron,Sensory neuron
+RIS,URYDL,2,Modulatory neuron,Sensory neuron
+RIS,URYDR,2,Modulatory neuron,Sensory neuron
+RIS,URYVL,2,Modulatory neuron,Sensory neuron
+RIS,AIBL,1,Modulatory neuron,Interneuron
+RIS,AVEL,10,Modulatory neuron,Interneuron
+RIS,AVER,7,Modulatory neuron,Interneuron
+RIS,RIBL,11,Modulatory neuron,Interneuron
+RIS,RIBR,11,Modulatory neuron,Interneuron
+RIS,RIML,9,Modulatory neuron,Interneuron
+RIS,RIMR,8,Modulatory neuron,Interneuron
+RIS,RMDL,1,Modulatory neuron,Motor neuron
+RIS,RMDR,2,Modulatory neuron,Motor neuron
+RIS,RMEV,1,Modulatory neuron,Motor neuron
+RIS,RMFL,1,Modulatory neuron,Motor neuron
+RIS,SMDDL,2,Modulatory neuron,Motor neuron
+RIS,SMDDR,2,Modulatory neuron,Motor neuron
+RIS,SMDVL,1,Modulatory neuron,Motor neuron
+RIS,AVKL,9,Modulatory neuron,Modulatory neuron
+RIS,AVKR,9,Modulatory neuron,Modulatory neuron
+RIS,CEPDL,4,Modulatory neuron,Modulatory neuron
+RIS,CEPVL,3,Modulatory neuron,Modulatory neuron
+RIS,CEPVR,2,Modulatory neuron,Modulatory neuron
+RIS,RICL,1,Modulatory neuron,Modulatory neuron
+RMGL,ALML,1,Modulatory neuron,Sensory neuron
+RMGL,IL2L,1,Modulatory neuron,Sensory neuron
+RMGL,SAADR,1,Modulatory neuron,Sensory neuron
+RMGL,SAAVL,1,Modulatory neuron,Sensory neuron
+RMGL,SAAVR,1,Modulatory neuron,Sensory neuron
+RMGL,URXL,1,Modulatory neuron,Sensory neuron
+RMGL,AVAL,1,Modulatory neuron,Interneuron
+RMGL,AVBL,2,Modulatory neuron,Interneuron
+RMGL,AVEL,2,Modulatory neuron,Interneuron
+RMGL,AVJR,1,Modulatory neuron,Modulatory neuron
+RMGL,RMDL,4,Modulatory neuron,Motor neuron
+RMGL,RMDR,5,Modulatory neuron,Motor neuron
+RMGL,RMDVL,2,Modulatory neuron,Motor neuron
+RMGL,RMDVR,1,Modulatory neuron,Motor neuron
+RMGL,SIBDL,2,Modulatory neuron,Motor neuron
+RMGL,SIBDR,1,Modulatory neuron,Motor neuron
+RMGL,SIBVL,2,Modulatory neuron,Motor neuron
+RMGL,SMBVL,1,Modulatory neuron,Motor neuron
+RMGL,AIML,1,Modulatory neuron,Modulatory neuron
+RMGL,RID,2,Modulatory neuron,Modulatory neuron
+RMGR,ASHR,1,Modulatory neuron,Sensory neuron
+RMGR,SAADR,1,Modulatory neuron,Sensory neuron
+RMGR,URXR,1,Modulatory neuron,Sensory neuron
+RMGR,AVBR,1,Modulatory neuron,Interneuron
+RMGR,AVER,2,Modulatory neuron,Interneuron
+RMGR,RMDL,5,Modulatory neuron,Motor neuron
+RMGR,RMDR,4,Modulatory neuron,Motor neuron
+RMGR,RMDVR,2,Modulatory neuron,Motor neuron
+RMGR,RMHL,1,Modulatory neuron,Motor neuron
+RMGR,SIADL,1,Modulatory neuron,Motor neuron
+RMGR,SIBDL,1,Modulatory neuron,Motor neuron
+RMGR,SIBDR,1,Modulatory neuron,Motor neuron
+RMGR,SIBVR,1,Modulatory neuron,Motor neuron
+RMGR,SMBVR,1,Modulatory neuron,Motor neuron
+RMGR,AIMR,2,Modulatory neuron,Modulatory neuron
+RMGR,AVFL,1,Modulatory neuron,Modulatory neuron
+RMGR,AVFR,1,Modulatory neuron,Modulatory neuron
