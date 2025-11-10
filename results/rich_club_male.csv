@@ -1,0 +1,20 @@
+Neuron ,Type,Sex,indegree,outdegree,degree,instrength,outstrength,strength
+AVAR,interneuron,Shared,73,63,136,1122,975,2097
+AVAL,interneuron,Shared,71,59,130,1293,1092,2385
+AVBR,interneuron,Shared,61,48,109,577,254,831
+PVV,interneuron,Male-specific,55,49,104,1005,348,1353
+EF2,interneuron,Male-specific,59,44,103,796,325,1121
+PDB,motorneuron,Shared,50,49,99,623,351,974
+EF3,interneuron,Male-specific,61,35,96,784,248,1032
+PVX,interneuron,Male-specific,53,38,91,990,351,1341
+AVG,interneuron,Shared,49,41,90,486,286,772
+PVNL,interneuron,Shared,42,47,89,264,283,547
+AVBL,interneuron,Shared,55,34,89,605,259,864
+PVZ,interneuron,Male-specific,48,37,85,645,364,1009
+DVA,sensory,Shared,38,45,83,288,279,567
+EF1,interneuron,Male-specific,50,33,83,684,182,866
+PVCR,interneuron,Shared,36,42,78,387,309,696
+HOB,sensory,Male-specific,31,47,78,296,1030,1326
+CA05,interneuron,Male-specific,41,36,77,555,465,1020
+R1BR,sensory,Male-specific,23,46,69,258,573,831
+R3BR,sensory,Male-specific,26,43,69,170,442,612
