@@ -62,6 +62,33 @@ cook_male_comb_fc = functional_carto_features(cook_male_comb,cook_male_comb_NC, 
 wit7_fc = functional_carto_features(wit7,wit7_NC,wit_anatomical_info);
 wit8_fc = functional_carto_features(wit8,wit8_NC,wit_anatomical_info);
 
+
+%% 
+mod_path = fullfile(fileparts(pwd), 'results','cook_herm_chem_functional_cartography_features.csv');
+writetable(cook_herm_chem_fc, mod_path);
+
+mod_path = fullfile(fileparts(pwd), 'results','cook_herm_elec_functional_cartography_features.csv');
+writetable(cook_herm_elec_fc, mod_path);
+
+mod_path = fullfile(fileparts(pwd), 'results','cook_herm_combined_functional_cartography_features.csv');
+writetable(cook_herm_comb_fc, mod_path);
+
+mod_path = fullfile(fileparts(pwd), 'results','cook_male_chem_functional_cartography_features.csv');
+writetable(cook_male_chem_fc, mod_path);
+
+mod_path = fullfile(fileparts(pwd), 'results','cook_male_elec_functional_cartography_features.csv');
+writetable(cook_male_elec_fc, mod_path);
+
+mod_path = fullfile(fileparts(pwd), 'results','cook_male_combined_functional_cartography_features.csv');
+writetable(cook_male_comb_fc, mod_path);
+
+mod_path = fullfile(fileparts(pwd), 'results','wit7_functional_cartography_features.csv');
+writetable(wit7_fc, mod_path);
+
+mod_path = fullfile(fileparts(pwd), 'results','wit8_functional_cartography_features.csv');
+writetable(wit8_fc, mod_path);
+
+
 %% perform region based cell-type analysis
 
 % Herm
