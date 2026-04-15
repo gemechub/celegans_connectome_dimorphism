@@ -50,7 +50,7 @@ cook_male_anatomical_info = readtable(fullfile(data_path, 'cook_male_neurons_ana
 wit_anatomical_info = readtable(fullfile(data_path, 'wit_neurons_anatomical_info.csv'));
 
 
-%%
+%% calculate participation coefficient and within-module z-score
 cook_herm_chem_fc = functional_carto_features(cook_herm_chem,cook_herm_chem_NC, cook_herm_anatomical_info);
 cook_herm_elec_fc = functional_carto_features(cook_herm_elec,cook_herm_elec_NC, cook_herm_anatomical_info);
 cook_herm_comb_fc = functional_carto_features(cook_herm_comb,cook_herm_comb_NC, cook_herm_anatomical_info);

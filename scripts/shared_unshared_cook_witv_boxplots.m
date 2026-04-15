@@ -23,6 +23,11 @@ cook_male_chem = readtable(fullfile(data_path, 'cook_male_chem_AM.csv'));% cook_
 wit7 = readtable(fullfile(data_path, 'wit_d7_AM.csv'));
 wit8 = readtable(fullfile(data_path, 'wit_d8_AM.csv'));
 
+%Cook chem with Witv neurons
+cook_herm_chem_witneurons = readtable(fullfile(data_path, 'cook_herm_chem_wit_neurons_am.csv'));
+cook_male_chem_witneurons = readtable(fullfile(data_path, 'cook_male_chem_wit_neurons_am.csv'));
+
+
 
 %% Extract local features
 %cook herm features
@@ -34,6 +39,10 @@ cook_male_chem_lf = local_features_extraction(cook_male_chem,cook_cell_types);
 %witvliet dataset features
 wit7_lf = local_features_extraction(wit7,wit_cell_types, 'cell_class');
 wit8_lf = local_features_extraction(wit8,wit_cell_types, 'cell_class');
+
+%cook chem with neurons
+cook_herm_chem_witneurons_lf = local_features_extraction(cook_herm_chem_witneurons, cook_cell_types);
+cook_male_chem_witneurons_lf = local_features_extraction(cook_male_chem_witneurons, cook_cell_types);
 
 
 %% 
@@ -48,6 +57,12 @@ wit8_lf = local_features_extraction(wit8,wit_cell_types, 'cell_class');
 
 [wit8_shared_degrees, wit8_specific_degrees] = ...
     shared_unshared_features(wit8_lf, 'degree', 'herm');
+
+[cook_herm_chem_witneurons_shared_degrees, cook_herm_chem_witneurons_specific_degrees] = ...
+    shared_unshared_features(cook_herm_chem_witneurons_lf, 'degree', 'herm');
+
+[cook_male_chem_witneurons_shared_degrees, cook_male_chem_witneurons_specific_degrees] = ...
+    shared_unshared_features(cook_male_chem_witneurons_lf, 'degree', 'male');
 
 
 
@@ -85,6 +100,39 @@ export_fig(fig_save_path);
 
 
 
+%% 
+fig = figure;
+
+%subplot(1,2,1);
+herm_bp = [cook_herm_chem_witneurons_shared_degrees;cook_male_chem_witneurons_shared_degrees; wit7_shared_degrees;wit8_shared_degrees];
+herm_gr = [ones(size(cook_herm_chem_witneurons_shared_degrees)); 2*ones(size(cook_male_chem_witneurons_shared_degrees));...
+    3*ones(size(wit7_shared_degrees)); 4*ones(size(wit8_shared_degrees))];
+b1 = boxplot(herm_bp.degree, herm_gr, 'Labels',{'Cook herm', 'Cook male', 'Witvliet7', 'Witvliet8'}, 'Symbol', 'or', 'Width', 0.4);
+set(findobj(b1,'Tag','Box'),'LineWidth',2)
+set(findobj(b1,'Tag','Median'),'LineWidth',1.5, 'Color', 'r')
+set(findobj(b1,'Tag','Upper Whisker'),'LineWidth',1)
+set(findobj(b1,'Tag','Lower Whisker'),'LineWidth',1)
+ylabel('Degree'); 
+%set(gca,'FontWeight','bold'); set(gca,'FontWeight','bold');
+ax= gca;
+ax.FontName = 'Arial';
+%ax.FontWeight = 'Bold';
+ax.FontSize = 13;
+ax.LineWidth = 2;
+%ttl = title('A', 'FontSize',18,'FontWeight', 'bold'); ttl.Units = 'Normalize'; ttl.Position(1) = -0.1; 
+
+% Set the size of the figure
+width = 350;  % Width in pixels
+height = 250; % Height in pixels
+set(fig, 'Position', [100, 500, width, height]);
+
+%% exporting the figures
+%exporting publication-quality figures is performed using the package
+%export_fig: https://github.com/altmany/export_fig 
+fig_save_path = fullfile(fileparts(pwd), "figure_components", "shared_unshared_degrees_cook_witneurons_only.pdf");
+export_fig(fig_save_path);
+
+
 
 %% statisitcs 
 
@@ -105,6 +153,22 @@ disp(ranksum(cook_male_chem_shared_degrees.degree,wit7_shared_degrees.degree));
 
 disp('Cook male vs wit8:')
 disp(ranksum(cook_male_chem_shared_degrees.degree,wit8_shared_degrees.degree));
+
+%% 
+shared_witneurons_only_degrees = {cook_herm_chem_witneurons_shared_degrees.degree;cook_male_chem_witneurons_shared_degrees.degree;...
+    wit7_shared_degrees.degree;wit8_shared_degrees.degree};
+
+disp('Cook herm vs Cook male:')
+disp(ranksum(cook_herm_chem_witneurons_shared_degrees.degree,cook_male_chem_witneurons_shared_degrees.degree));
+
+disp('Cook herm vs wit7:')
+disp(ranksum(cook_herm_chem_witneurons_shared_degrees.degree,wit7_shared_degrees.degree));
+
+disp('Cook herm vs wit8:')
+disp(ranksum(cook_herm_chem_witneurons_shared_degrees.degree,wit8_shared_degrees.degree));
+
+disp('Cook male vs wit7:')
+disp(ranksum(cook_male_chem_witneurons_shared_degrees.degree,wit7_shared_degrees.degree));
 
 %%
 %wilcoxon rank-sum test if the sex shared and sex-specific degrees have
@@ -151,5 +215,36 @@ if p < 0.05
     disp('Pairwise comparisons (columns: group1, group2, lowerCI, meanDiff, upperCI, p-value):');
     disp(results);
 end
+
+
+%%
+
+shared_neurons_degrees = {cook_herm_chem_witneurons_shared_degrees.degree; ...
+                          cook_male_chem_witneurons_shared_degrees.degree; ...
+                          wit7_shared_degrees.degree; ...
+                          wit8_shared_degrees.degree};
+
+% Flatten into one vector with group labels
+all_data = [];
+group = [];
+for i = 1:numel(shared_neurons_degrees)
+    all_data = [all_data; shared_neurons_degrees{i}(:)];
+    group   = [group; repmat(i, numel(shared_neurons_degrees{i}), 1)];
+end
+
+% Nonparametric test: Kruskal-Wallis
+[p, tbl, stats] = kruskalwallis(all_data, group, 'off'); % 'off' suppresses the plot
+
+fprintf('Kruskal-Wallis p = %.4f\n', p);
+
+% If significant, do pairwise rank-sum tests
+if p < 0.05
+    results = multcompare(stats, 'ctype', 'dunn-sidak'); % multiple comparisons correction
+    disp('Pairwise comparisons (columns: group1, group2, lowerCI, meanDiff, upperCI, p-value):');
+    disp(results);
+end
+
+
+
 
 

@@ -31,6 +31,10 @@ cook_male_comb = readtable(fullfile(data_path, 'cook_male_combined_AM.csv'));
 wit7 = readtable(fullfile(data_path, 'wit_d7_AM.csv'));
 wit8 = readtable(fullfile(data_path, 'wit_d8_AM.csv'));
 
+%Cook chem with Witv neurons
+cook_herm_chem_witneurons = readtable(fullfile(data_path, 'cook_herm_chem_wit_neurons_am.csv'));
+cook_male_chem_witneurons = readtable(fullfile(data_path, 'cook_male_chem_wit_neurons_am.csv'));
+
 
 %% Extract local features
 %cook herm features
@@ -47,6 +51,11 @@ cook_male_comb_lf = local_features_extraction(cook_male_comb,cook_cell_types);
 wit7_lf = local_features_extraction(wit7,wit_cell_types, 'cell_class');
 wit8_lf = local_features_extraction(wit8,wit_cell_types, 'cell_class');
 
+%cook chem with witv neurons
+cook_herm_chem_witneurons_lf = local_features_extraction(cook_herm_chem_witneurons,cook_cell_types);
+cook_male_chem_witneurons_lf = local_features_extraction(cook_male_chem_witneurons,cook_cell_types);
+
+
 %% Save the local feature tables
 result_path = fullfile(fileparts(pwd), "results");
 
@@ -60,6 +69,10 @@ writetable(cook_male_comb_lf, fullfile(result_path,'cook_male_combined_local_fea
 
 writetable(wit7_lf, fullfile(result_path,'wit7_local_features.csv'));
 writetable(wit8_lf, fullfile(result_path,'wit8_local_features.csv'));
+
+writetable(cook_herm_chem_witneurons_lf, fullfile(result_path,'cook_herm_chem_witneurons_local_features.csv'));
+writetable(cook_male_chem_witneurons_lf, fullfile(result_path,'cook_male_chem_witneurons_local_features.csv'));
+
 
 
    

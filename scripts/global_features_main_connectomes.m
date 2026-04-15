@@ -22,6 +22,11 @@ cook_male_combined = readtable(fullfile(data_path, 'cook_male_combined_strongly_
 wit7 = readtable(fullfile(data_path, 'wit_d7_strongly_connected_AM.csv'));
 wit8 = readtable(fullfile(data_path, 'wit_d8_strongly_connected_AM.csv'));
 
+%Cook chem with Witv neurons
+cook_herm_chem_witneurons = readtable(fullfile(data_path, 'cook_herm_chem_wit_neurons_am.csv'));
+cook_male_chem_witneurons = readtable(fullfile(data_path, 'cook_male_chem_wit_neurons_am.csv'));
+
+
 %% get global features of the connectomes
 
 [gf_bin_herm_chem, gf_wei_herm_chem] = global_features_extraction(cook_herm_chem,1);
@@ -34,6 +39,12 @@ wit8 = readtable(fullfile(data_path, 'wit_d8_strongly_connected_AM.csv'));
 
 [gf_bin_wit7, gf_wei_wit7] = global_features_extraction(wit7,1);
 [gf_bin_wit8, gf_wei_wit8] = global_features_extraction(wit8,1);
+
+[gf_bin_herm_chem_witneurons, gf_wei_herm_chem_witneurons] = ...
+    global_features_extraction(cook_herm_chem_witneurons,1);
+
+[gf_bin_male_chem_witneurons, gf_wei_male_chem_witneurons] = ...
+    global_features_extraction(cook_male_chem_witneurons,1);
 
 %% Save the global feature tables
 result_path = fullfile(fileparts(pwd), "results");
@@ -63,5 +74,10 @@ writetable(gf_bin_wit8, fullfile(result_path,'wit8_binary_global_features.csv'))
 %wit7 weighted
 writetable(gf_wei_wit8, fullfile(result_path,'wit8_weigted_global_features.csv'));
 
+%cook chem wit neurons
+writetable(gf_bin_herm_chem_witneurons, fullfile(result_path,'cook_herm_chem_witneurons_binary_global_features.csv'));
+writetable(gf_bin_male_chem_witneurons, fullfile(result_path,'cook_male_chem_witneurons_binary_global_features.csv'));
 
+writetable(gf_wei_herm_chem_witneurons, fullfile(result_path,'cook_herm_chem_witneurons_weighted_global_features.csv'));
+writetable(gf_wei_male_chem_witneurons, fullfile(result_path,'cook_male_chem_witneurons_weighted_global_features.csv'));
 

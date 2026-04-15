@@ -23,6 +23,11 @@ cook_male_combined = readtable(fullfile(data_path, 'cook_male_combined_AM.csv'))
 wit7 = readtable(fullfile(data_path, 'wit_d7_AM.csv'));
 wit8 = readtable(fullfile(data_path, 'wit_d8_AM.csv'));
 
+%Cook chem with Witv neurons
+cook_herm_chem_witneurons = readtable(fullfile(data_path, 'cook_herm_chem_wit_neurons_am.csv'));
+cook_male_chem_witneurons = readtable(fullfile(data_path, 'cook_male_chem_wit_neurons_am.csv'));
+
+
 %% communities
 %herm
 [cook_herm_comb_NC,cook_herm_comb_Q] = community_extraction(cook_herm_combined,1000);
@@ -59,6 +64,16 @@ writetable(wit7_NC, wit7_NC_path);
 wit8_NC_path = fullfile(fileparts(pwd), 'results','wit8_communities.csv');
 writetable(wit8_NC, wit8_NC_path);
 
+%% cook chem with wit neurons only
+%herm
+[cook_herm_chem_witneurons_NC,cook_herm_chem_witneurons_Q] = community_extraction(cook_herm_chem_witneurons,1000);
+cook_herm_chem_witneurons_NC_path = fullfile(fileparts(pwd), 'results','cook_herm_chem_witneurons_communities.csv');
+writetable(cook_herm_chem_witneurons_NC, cook_herm_chem_witneurons_NC_path);
+%male
+[cook_male_chem_witneurons_NC,cook_male_chem_witneurons_Q] = community_extraction(cook_male_chem_witneurons,1000);
+cook_male_chem_witneurons_NC_path = fullfile(fileparts(pwd), 'results','cook_male_chem_witneurons_communities.csv');
+writetable(cook_male_chem_witneurons_NC, cook_male_chem_witneurons_NC_path);
+
 
 %%
 clc
@@ -76,11 +91,15 @@ fprintf('\n')
 fprintf('\t Wit7: %d, %d \n', wit7_Q, length(unique(wit7_NC.Community)));
 fprintf('\t Wit8: %d, %d \n', wit8_Q, length(unique(wit8_NC.Community)));
 
+fprintf('\n')
+fprintf('\t Cook herm chem wit neurons only: %d, %d \n', cook_herm_chem_witneurons_Q, length(unique(cook_herm_chem_witneurons_NC.Community)));
+fprintf('\t Cook male chem wit neurons only: %d, %d \n', cook_male_chem_witneurons_Q, length(unique(cook_male_chem_witneurons_NC.Community)));
+
+
 %save the modularity values
 mod_table = table(cook_herm_comb_Q,cook_herm_chem_Q,cook_herm_elec_Q, ...
     cook_male_comb_Q, cook_male_chem_Q, cook_male_elec_Q, wit7_Q, wit8_Q, ...
-    {'cook_herm_comb','cook_herm_chem', 'cook_herm_elec', ...
-    'cook_male_comb', 'cook_male_chem', 'cook_male_elec', 'wit7', 'wit8'});
+    cook_herm_chem_witneurons_Q, cook_male_chem_witneurons_Q);
 
 mod_path = fullfile(fileparts(pwd), 'results','communities_modularity_values.csv');
 writetable(mod_table, mod_path);

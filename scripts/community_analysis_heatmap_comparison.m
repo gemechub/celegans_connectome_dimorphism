@@ -56,12 +56,26 @@ fprintf('\t Wit8: %d, %d \n', mod_table.wit8_Q, length(unique(wit8_NC.Community)
 [similarity_score_cook_herm_male, same_diff_matrix_cook_herm_chem, same_diff_matrix_cook_male_chem]...
     =  community_similarity(cook_herm_chem_NC, cook_male_chem_NC);
 
+[similarity_score_wit7_male, same_diff_matrix_wit7_cookmale, same_diff_matrix_cookmale_wit7]...
+    =  community_similarity(wit7_NC, cook_male_chem_NC);
+
+[similarity_score_wit8_male, same_diff_matrix_wit8_cookmale, same_diff_matrix_cookmale_wit8]...
+    =  community_similarity(wit8_NC, cook_male_chem_NC);
+
+
+[similarity_score_cook_comb_herm_male, same_diff_matrix_cook_comb_herm_chem, same_diff_matrix_cook_comb_male_chem]...
+    =  community_similarity(cook_herm_comb_NC, cook_male_comb_NC);
+
+
 fprintf('Similarity_score:\n')
 fprintf('\t Wit7 vs Wit8: %d \n', similarity_score_wit7_wit8);
 fprintf('\t wit7 vs Cook: %d \n', similarity_score_wit7_cook);
 fprintf('\t wit8 vs Cook: %d \n', similarity_score_wit8_cook);
 
 fprintf('\t Cook herm vs male: %d \n', similarity_score_cook_herm_male);
+fprintf('\t Wit7 vs male: %d \n', similarity_score_wit7_male);
+fprintf('\t Wit8 vs male: %d \n', similarity_score_wit8_male);
+fprintf('\t Cook comb herm vs male: %d \n', similarity_score_cook_comb_herm_male);
 
 
 %% count of communities a feature: location
